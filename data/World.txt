@@ -1,0 +1,1817 @@
+00;000;PABL;Buckland, Buckland Airport;AK;United States;4;65-58-56N;161-09-07W;;;7;;
+01;001;ENJA;Jan Mayen;;Norway;6;70-56N;008-40W;70-56N;008-40W;10;9;P
+01;002;----;Grahuken;;Norway;6;79-47N;014-28E;;;;15;
+01;003;----;Hornsund;;Norway;6;77-00N;015-30E;;;10;12;
+01;004;ENAS;Ny-Alesund Ii;;Norway;6;78-55N;011-56E;78-55N;011-56E;8;8;
+01;006;----;Edgeoya;;Norway;6;78-14N;022-47E;;;;14;
+01;007;----;Ny Alesund;;Norway;6;78-55N;011-56E;;;;12;
+01;008;ENSB;Svalbard Lufthavn;;Norway;6;78-15N;015-28E;;;2;29;P
+01;009;----;Phippsoya;;Norway;6;80-41N;020-52E;;;4;;
+01;010;ENAN;Andoya;;Norway;6;69-18N;016-09E;69-18N;016-09E;1;14;P
+01;011;----;Kvitoya;;Norway;6;80-06N;031-24E;80-06N;031-24E;16;16;
+01;015;----;Hekkingen Fyr;;Norway;6;69-36N;017-50E;;;14;;
+01;016;----;Senja-Grasmyrskogen;;Norway;6;69-17N;017-46E;;;50;;
+01;023;ENDU;Bardufoss;;Norway;6;69-04N;018-32E;;;7;79;P
+01;025;ENTC;Tromso / Langnes;;Norway;6;69-41N;018-55E;;;1;10;P
+01;026;----;Tromso;;Norway;6;69-39N;018-56E;;;103;114;
+01;028;ENBJ;Bjornoya;;Norway;6;74-31N;019-01E;74-31N;019-01E;16;16;P
+01;033;----;Torsvag Fyr;;Norway;6;70-15N;019-30E;;;21;24;
+01;034;----;Fugloykalven Fyr;;Norway;6;70-19N;020-09E;;;37;38;
+01;035;----;Oteren;;Norway;6;69-15N;019-53E;;;12;;
+01;041;----;Nodreisa-Oyeng;;Norway;6;69-44N;021-01E;;;5;;
+01;043;----;Loppa;;Norway;6;70-20N;021-28E;;;10;11;
+01;045;----;Nordstraum I Kvaenangen;;Norway;6;69-50N;021-53E;;;6;;
+01;046;ENSR;Sorkjosen;;Norway;6;69-47N;020-58E;;;0;6;
+01;047;ENKA;Kautokeino;;Norway;6;69-00N;023-02E;;;305;308;
+01;049;ENAT;Alta Lufthavn;;Norway;6;69-59N;023-22E;;;0;3;P
+01;051;----;Suolovuopmi;;Norway;6;69-35N;023-32E;;;374;;
+01;052;ENHF;Hammerfest;;Norway;6;70-40N;023-40E;;;8;81;
+01;055;----;Fruholmen Fyr;;Norway;6;71-06N;024-00E;;;13;14;P
+01;057;----;Cuovddatmohkki;;Norway;6;69-22N;024-26E;;;286;;
+01;059;ENNA;Banak;;Norway;6;70-04N;024-59E;;;0;8;P
+01;062;ENHO;Hopen;;Norway;6;76-30N;025-04E;;;6;10;P
+01;065;----;Karasjok;;Norway;6;69-28N;025-30E;;;129;133;
+01;066;----;Helnes Fyr;;Norway;6;71-04N;026-14E;;;33;;
+01;068;ENHV;Honningsvag / Valan;;Norway;6;71-01N;025-59E;;;1;14;
+01;074;ENMH;Mehamn;;Norway;6;71-02N;027-50E;;;1;13;
+01;075;----;Rustefjelbma;;Norway;6;70-24N;028-12E;;;9;11;
+01;078;----;Sletnes Fyr;;Norway;6;71-05N;028-14E;;;8;10;P
+01;083;ENBV;Berlevag;;Norway;6;70-52N;029-02E;;;1;13;
+01;088;ENVD;Vadso;;Norway;6;70-04N;029-51E;;;3;39;
+01;089;ENKR;Kirkenes Lufthavn;;Norway;6;69-44N;029-54E;;;9;91;P
+01;092;----;Makkaur Fyr;;Norway;6;70-42N;030-05E;;;9;;
+01;097;ENSS;Svartnes;;Norway;6;70-21N;031-03E;;;12;;
+01;098;----;Vardo;;Norway;6;70-22N;031-06E;;;14;15;P
+01;102;----;Sklinna Fyr;;Norway;6;65-12N;011-00E;;;23;16;P
+01;103;----;Leka;;Norway;6;65-06N;011-42E;;;47;;
+01;106;----;Rost Ii;;Norway;6;67-30N;012-05E;;;10;11;P
+01;107;ENRS;Rost Flyplass;;Norway;6;67-31N;012-06E;;;4;;
+01;108;----;Vega-Vallsjo;;Norway;6;65-42N;011-51E;;;2;9;
+01;110;----;Ytterholmen Fyr;;Norway;6;66-00N;011-41E;;;33;33;
+01;112;ENBN;Bronnoysund / Bronnoy;;Norway;6;65-28N;012-13E;;;0;9;
+01;115;----;Myken;;Norway;6;66-45N;012-29E;;;17;13;
+01;116;ENST;Sandnessjoen / Stokka;;Norway;6;65-58N;012-28E;;;1;17;
+01;121;----;Nord-Solvaer;;Norway;6;66-24N;012-37E;;;10;;
+01;122;ENMS;Mosjoen Kjaerstad;;Norway;6;65-48N;013-08E;;;70;;
+01;134;----;Majavatn Iii;;Norway;6;65-11N;013-25E;;;339;339;
+01;137;----;Stott;;Norway;6;66-56N;013-27E;;;12;;
+01;138;----;Tennholmen Fyr;;Norway;6;67-18N;013-30E;;;14;;
+01;141;ENLK;Leknes;;Norway;6;68-09N;013-37E;;;2;26;
+01;147;----;Susendal-Bjormo;;Norway;6;65-31N;014-01E;;;265;;
+01;149;----;Rana-Basmoen;;Norway;6;66-20N;014-06E;;;40;42;
+01;151;ENRA;Mo I Rana / Rossvoll;;Norway;6;66-22N;014-18E;;;7;70;
+01;152;ENBO;Bodo Vi;;Norway;6;67-16N;014-22E;67-15N;014-24E;1;13;P
+01;154;----;Litloy Fyr;;Norway;6;68-35N;014-18E;;;30;;
+01;155;----;Bo I Vesteralen Ii;;Norway;6;68-38N;014-28E;;;12;13;
+01;160;----;Skrova Fyr;;Norway;6;68-09N;014-39E;;;11;;
+01;161;ENSH;Svolvaer / Helle;;Norway;6;68-15N;014-40E;;;0;9;
+01;162;ENSK;Storkmarknes / Skagen;;Norway;6;68-35N;015-01E;;;0;3;
+01;167;----;Sortland;;Norway;6;68-42N;015-25E;;;3;3;P
+01;169;----;Saltdal;;Norway;6;66-51N;015-19E;;;81;;
+01;172;----;Finnoy I Hamaroy;;Norway;6;68-00N;015-37E;;;53;;
+01;183;ENEV;Evenes;;Norway;6;68-31N;016-41E;;;26;26;
+01;193;----;Narvik / Framnes;;Norway;6;68-26N;017-24E;;;3;30;
+01;194;ENNK;Narvik Iii;;Norway;6;68-28N;017-30E;;;17;23;
+01;196;----;Tennevoll;;Norway;6;68-45N;017-49E;;;21;;
+01;199;----;Sihcajavri;;Norway;6;68-45N;023-32E;;;382;;
+01;203;----;Krakenes;;Norway;6;62-02N;004-59E;;;41;;
+01;205;----;Svinoy Fyr;;Norway;6;62-20N;005-16E;;;38;41;P
+01;209;ENOV;Orsta-Volda / Hovden;;Norway;6;62-11N;006-04E;;;7;74;
+01;210;ENAL;Alesund / Vigra;;Norway;6;62-34N;006-07E;;;2;22;
+01;212;----;Ona Ii;;Norway;6;62-52N;006-32E;;;13;15;
+01;217;ENML;Molde / Aro;;Norway;6;62-45N;007-16E;;;0;3;
+01;218;----;Tafjord;;Norway;6;62-14N;007-25E;;;15;17;
+01;223;ENKB;Kristiansund / Kvernberget;;Norway;6;63-07N;007-50E;;;6;62;
+01;224;----;Skalmen Fyr;;Norway;6;63-28N;007-45E;;;13;13;
+01;227;----;Tingvoll-Hanem;;Norway;6;62-50N;008-18E;;;69;69;
+01;228;----;Sula;;Norway;6;63-51N;008-28E;;;4;6;P
+01;231;----;Lesjaskog;;Norway;6;62-14N;008-22E;;;621;;
+01;232;----;Vinjeora Ii;;Norway;6;63-12N;009-00E;;;47;;
+01;237;----;Fokstua Ii;;Norway;6;62-09N;009-17E;;;;974;
+01;238;----;Fokstua Ii;;Norway;6;62-07N;009-17E;;;972;974;
+01;240;----;Halten Fyr;;Norway;6;64-10N;009-25E;;;16;16;
+01;241;ENOL;Orland Iii;;Norway;6;63-42N;009-36E;63-42N;009-36E;0;7;P
+01;245;----;Oppdal-Bjorke;;Norway;6;62-36N;009-41E;;;630;;
+01;252;----;Berkak-Lyngholt;;Norway;6;62-49N;010-01E;;;475;;
+01;259;----;Buholmrasa Fyr;;Norway;6;64-24N;010-27E;;;21;18;
+01;262;----;Nordoyan Fyr;;Norway;6;64-48N;010-33E;;;33;;
+01;265;----;Tynset Ii;;Norway;6;62-16N;010-46E;;;;482;
+01;271;ENVA;Trondheim / Vaernes;;Norway;6;63-28N;010-56E;;;1;17;P
+01;274;----;Selbu-Stubbe;;Norway;6;63-12N;011-07E;;;242;;
+01;277;----;Steinkjer;;Norway;6;64-01N;011-27E;;;80;;
+01;278;----;Verdal-Reppe;;Norway;6;63-47N;011-40E;;;81;81;
+01;280;----;Namdalseid;;Norway;6;64-15N;011-12E;;;86;87;
+01;282;ENRM;Rorvik / Ryum;;Norway;6;64-50N;011-09E;;;4;;
+01;288;----;Roros;;Norway;6;62-34N;011-23E;;;628;630;
+01;289;ENRO;Roros Lufthavn;;Norway;6;62-35N;011-21E;;;62;626;
+01;290;ENNM;Namsos Lufthavn;;Norway;6;64-28N;011-35E;;;0;2;
+01;292;----;Maraker-Utsyn;;Norway;6;63-25N;011-45E;;;239;240;
+01;298;----;Nordli-Holand;;Norway;6;64-27N;013-43E;;;433;;
+01;304;----;Ytteroyane Fyr;;Norway;6;61-34N;004-41E;;;26;25;
+01;306;----;Hellisoy Fyr;;Norway;6;60-45N;004-43E;;;23;23;
+01;310;ENFL;Floro;;Norway;6;61-35N;005-02E;;;0;9;
+01;311;ENBR;Bergen / Flesland;;Norway;6;60-17N;005-14E;;;5;50;P
+01;317;----;Bergen / Florida;;Norway;6;60-23N;005-20E;;;12;36;P
+01;319;----;Takle;;Norway;6;61-02N;005-23E;;;38;;
+01;320;ENSD;Sandane / Anda;;Norway;6;61-50N;006-07E;;;6;60;
+01;321;----;Stryn;;Norway;6;61-54N;006-33E;;;;208;
+01;322;----;Forde-Tefre;;Norway;6;61-28N;005-55E;;;64;64;
+01;323;----;Forde / Bringelandsasen;;Norway;6;61-24N;005-46E;;;31;319;
+01;325;----;Modalen Ii;;Norway;6;60-50N;005-57E;;;114;;
+01;328;----;Kvamskogen;;Norway;6;60-24N;005-55E;;;408;;
+01;330;----;Omastrand;;Norway;6;60-13N;005-59E;;;1;6;
+01;336;ENBM;Voss-Bo;;Norway;6;60-39N;006-30E;;;125;122;
+01;338;----;Vangsnes;;Norway;6;61-10N;006-39E;;;;51;
+01;341;----;Eidfjord-Bu;;Norway;6;60-28N;006-52E;;;117;119;
+01;344;----;Reimegrend;;Norway;6;60-41N;006-45E;;;590;;
+01;347;ENSG;Sogndal / Haukasen;;Norway;6;61-09N;007-08E;;;49;497;
+01;350;----;Finsevatn;;Norway;6;60-36N;007-32E;;;;1208;
+01;355;----;Laerdal-Tonjum;;Norway;6;61-04N;007-31E;;;24;36;
+01;357;----;Fortun;;Norway;6;61-30N;007-42E;;;35;35;
+01;360;----;Brata;;Norway;6;61-54N;007-52E;;;712;711;
+01;364;----;Geilo-Geilostolen;;Norway;6;60-31N;008-13E;;;810;;
+01;366;----;Sognefjell;;Norway;6;61-34N;008-00E;;;1415;;
+01;367;----;Fagernes;;Norway;6;60-59N;009-14E;;;365;365;P
+01;368;ENFG;Fagernes Leirin;;Norway;6;61-00N;009-18E;;;822;;
+01;370;----;Skabu-Storslaen;;Norway;6;61-31N;009-23E;;;865;;
+01;372;----;Nesbyen-Skoglund;;Norway;6;60-34N;009-08E;;;167;167;
+01;374;----;Vest-Torpa Ii;;Norway;6;60-56N;010-02E;;;542;;
+01;375;----;Kvitfjell;;Norway;6;61-29N;009-58E;;;1028;;
+01;378;----;Lillehammer-Saetherengen;;Norway;6;61-06N;010-28E;;;239;;
+01;379;----;Sor-Nesset;;Norway;6;61-53N;010-09E;;;739;;
+01;380;----;Venabu;;Norway;6;61-39N;010-07E;;;940;;
+01;383;----;Evenstad-Overenget;;Norway;6;61-24N;011-09E;;;255;;
+01;384;ENGM;Oslo / Gardermoen;;Norway;6;60-12N;011-05E;60-12N;011-06E;20;204;P
+01;389;----;Haugedalshogda;;Norway;6;61-10N;011-27E;;;240;;
+01;391;----;Flisa;;Norway;6;60-37N;012-01E;;;184;188;
+01;393;----;Drevsjo;;Norway;6;61-53N;012-03E;;;672;674;
+01;397;----;Trysil Vegstasjon;;Norway;6;61-18N;012-16E;;;;360;
+01;400;----;Ekofisk;;Norway;6;56-32N;003-13E;56-32N;003-13E;46;46;
+01;403;----;Utsira Fyr;;Norway;6;59-18N;004-53E;;;55;56;P
+01;406;----;Slatteroy Fyr;;Norway;6;59-55N;005-04E;;;15;16;P
+01;408;ENHD;Haugesund / Karmoy;;Norway;6;59-21N;005-13E;;;2;24;
+01;412;----;Obrestad;;Norway;6;58-39N;005-34E;;;26;26;
+01;415;ENZV;Stavanger / Sola;;Norway;6;58-53N;005-38E;58-52N;005-40E;0;9;P
+01;417;----;Nedre Vats;;Norway;6;59-29N;005-45E;;;64;65;
+01;423;----;Fister-Tonnevik;;Norway;6;59-10N;006-03E;;;50;;
+01;424;----;Sauda;;Norway;6;59-39N;006-22E;;;5;6;
+01;425;----;Ualand-Bjuland;;Norway;6;58-33N;006-21E;;;196;201;
+01;426;----;Lista Fyr;;Norway;6;58-07N;006-34E;;;;14;
+01;427;----;Lista Fyr;;Norway;6;58-07N;006-34E;;;14;14;P
+01;428;ENLI;Lista Flyplass;;Norway;6;58-06N;006-38E;;;1;10;
+01;432;----;Sirdal-Tjorhom;;Norway;6;58-53N;006-51E;;;500;;
+01;433;----;Midtlaeger;;Norway;6;59-50N;006-59E;;;1082;1081;
+01;434;----;Vaagsli;;Norway;6;59-46N;007-22E;;;;822;
+01;436;----;Lindesnes Fyr;;Norway;6;57-59N;007-03E;;;13;;
+01;439;----;Konsmo-Hoyland;;Norway;6;58-15N;007-19E;;;260;;
+01;441;----;Hovden-Lundane;;Norway;6;59-35N;007-23E;;;;836;
+01;442;----;Byglandsfjord-Solbakken;;Norway;6;58-40N;007-48E;;;212;211;
+01;446;----;Oyfjell-Trovatn;;Norway;6;59-34N;008-12E;;;715;714;P
+01;448;----;Oksoy Fyr;;Norway;6;58-04N;008-03E;;;9;8;P
+01;450;----;Mosstrand Ii;;Norway;6;59-50N;008-11E;;;977;;
+01;452;ENCN;Kristiansand / Kjevik;;Norway;6;58-12N;008-05E;;;1;17;P
+01;453;----;Kristiansand / Kjevik;;Norway;6;58-13N;008-05E;;;;16;
+01;455;----;Tveitsund;;Norway;6;59-02N;008-31E;;;252;255;P
+01;459;----;Nelaug;;Norway;6;58-39N;008-38E;;;142;;
+01;465;----;Torungen Fyr;;Norway;6;58-24N;008-48E;;;12;15;
+01;467;----;Lyngor Fyr;;Norway;6;58-38N;009-09E;;;4;5;P
+01;474;----;Lyngdal I Numedal;;Norway;6;59-54N;009-32E;;;288;294;
+01;475;ENSN;Skien-Geiteryggen;;Norway;6;59-11N;009-34E;;;1;14;
+01;476;----;Jomfruland Fyr;;Norway;6;58-51N;009-33E;;;12;5;
+01;477;----;Kongsberg Iv;;Norway;6;59-40N;009-39E;;;168;169;P
+01;482;----;Ferder Fyr;;Norway;6;59-02N;010-32E;;;6;8;P
+01;483;ENTO;Torp;;Norway;6;59-12N;010-16E;;;8;88;
+01;488;ENFB;Oslo / Fornebu;;Norway;6;59-54N;010-38E;;;1;17;P
+01;490;----;Tryvasshogda Ii;;Norway;6;59-59N;010-41E;;;528;529;
+01;492;----;Oslo-Blindern;;Norway;6;59-57N;010-43E;;;94;96;
+01;494;ENRY;Rygge;;Norway;6;59-23N;010-47E;;;5;53;P
+01;495;----;Stromtangen Fyr;;Norway;6;59-09N;010-50E;;;;10;
+01;496;----;Holand-Loken;;Norway;6;59-49N;011-29E;;;152;154;
+01;497;----;Prestebakke;;Norway;6;59-00N;011-32E;;;157;;
+01;498;----;Magnor;;Norway;6;59-58N;012-13E;;;154;153;
+02;012;----;Ritsem;;Sweden;6;67-44N;017-28E;;;521;523;P
+02;020;----;Katterjakk;;Sweden;6;68-25N;018-10E;;;515;517;P
+02;022;----;Abisko;;Sweden;6;68-21N;018-49E;;;394;394;
+02;032;----;Tornetrask Lake;;Sweden;6;68-13N;019-43E;;;393;;
+02;036;----;Nikkaluokta;;Sweden;6;67-51N;019-02E;;;467;468;
+02;043;----;Esrange;;Sweden;6;67-56N;021-04E;;;330;341;
+02;044;ESNQ;Kiruna Airport;;Sweden;6;67-49N;020-20E;;;452;;
+02;045;----;Kiruna Geofysiska;;Sweden;6;67-50N;020-26E;;;408;;
+02;049;ESNG;Gallivare;;Sweden;6;67-09N;020-39E;;;359;360;
+02;080;----;Karesuando;;Sweden;6;68-27N;022-30E;;;327;327;P
+02;096;----;Pajala;;Sweden;6;67-13N;023-24E;;;168;168;P
+02;103;----;Hemavan-Skorvfjallet;;Sweden;6;65-47N;015-04E;;;800;;
+02;104;----;Hemavan;;Sweden;6;65-49N;015-06E;;;473;473;
+02;105;----;Abelvattnet;;Sweden;6;65-32N;014-59E;;;670;;
+02;118;----;Dikanas-Skansnas;;Sweden;6;65-19N;016-02E;;;525;;
+02;120;----;Kvikkjokk;;Sweden;6;66-57N;017-45E;;;337;337;P
+02;124;----;Arjeplog;;Sweden;6;66-02N;017-52E;;;430;;P
+02;128;ESPD;Gunnarn;;Sweden;6;64-58N;017-42E;;;280;283;P
+02;141;----;Tjakaape;;Sweden;6;66-19N;019-13E;;;;582;
+02;142;ESNJ;Jokkmokk;;Sweden;6;66-38N;019-39E;;;263;264;P
+02;143;----;Paljamyren;;Sweden;6;66-13N;019-08E;;;;570;
+02;145;----;Tellejaur;;Sweden;6;66-09N;019-38E;;;;436;
+02;154;ESPE;Vidsel;;Sweden;6;65-52N;020-08E;;;180;182;
+02;159;----;Fallfors;;Sweden;6;65-07N;020-46E;;;195;0;
+02;160;----;Nattavaara;;Sweden;6;66-45N;021-03E;;;327;329;
+02;169;----;Heden;;Sweden;6;65-52N;021-27E;;;39;36;
+02;171;----;Boden;;Sweden;6;65-49N;021-42E;;;16;23;
+02;176;----;Ronnskar;;Sweden;6;65-02N;021-34E;;;3;3;
+02;181;----;Svartbyn;;Sweden;6;66-16N;022-51E;;;61;62;
+02;183;----;Lulea Sol;;Sweden;6;65-33N;022-08E;;;17;;
+02;185;----;Lulea / Kallax;;Sweden;6;65-33N;022-08E;65-33N;022-08E;17;34;
+02;186;ESPA;Lulea / Kallax;;Sweden;6;65-33N;022-08E;65-33N;022-08E;17;34;P
+02;188;----;Rodkallen;;Sweden;6;65-19N;022-23E;65-19N;022-23E;1;0;
+02;196;----;Haparanda;;Sweden;6;65-50N;024-09E;;;5;6;P
+02;206;----;Storlien-Visjovalen;;Sweden;6;63-18N;012-07E;;;642;644;P
+02;209;----;Sylarna;;Sweden;6;63-03N;012-16E;;;1035;;
+02;215;----;Areskutan;;Sweden;6;63-26N;013-05E;;;1280;;
+02;221;----;Korsvattnet;;Sweden;6;63-50N;013-30E;;;717;0;
+02;222;----;Gaddede;;Sweden;6;64-30N;014-08E;;;328;330;P
+02;226;ESPC;Ostersund / Froson;;Sweden;6;63-11N;014-30E;63-11N;014-30E;376;370;P
+02;229;----;Ostersund Sol;;Sweden;6;63-12N;014-30E;;;376;;
+02;244;----;Junsele;;Sweden;6;63-42N;016-52E;;;210;;
+02;245;----;Vilhelmina;;Sweden;6;64-35N;016-51E;;;348;349;
+02;247;----;Krangede;;Sweden;6;63-09N;016-10E;;;183;184;
+02;248;----;Krangede;;Sweden;6;63-10N;016-10E;;;223;;
+02;259;ESNK;Kramfors Flygplats;;Sweden;6;63-03N;017-46E;;;10;19;P
+02;267;ESNO;Ornskoldsvik Airport;;Sweden;6;63-24N;018-58E;;;103;;
+02;269;----;Skagsudde;;Sweden;6;63-11N;019-01E;;;11;0;
+02;274;----;Vindeln;;Sweden;6;64-13N;019-43E;;;204;206;P
+02;283;----;Umea Robacksdalen;;Sweden;6;63-49N;020-15E;;;10;;
+02;284;----;Jarnasklubb;;Sweden;6;63-26N;019-41E;;;5;;
+02;286;ESNU;Umea Flygplats;;Sweden;6;63-48N;020-17E;;;7;14;P
+02;288;----;Holmogadd;;Sweden;6;63-36N;020-46E;;;6;6;P
+02;293;ESNS;Skelleftea Airport;;Sweden;6;64-38N;021-05E;;;49;;
+02;296;----;Bjuroklubb;;Sweden;6;64-29N;021-35E;;;36;36;P
+02;307;----;Idre;;Sweden;6;61-54N;012-51E;;;875;;
+02;308;----;Tannas;;Sweden;6;62-27N;012-40E;;;723;724;
+02;316;----;Sarna;;Sweden;6;61-42N;013-10E;;;437;438;P
+02;318;----;Tandadalen;;Sweden;6;61-10N;013-01E;;;830;;
+02;323;----;Klovsjo;;Sweden;6;62-32N;014-12E;;;550;551;P
+02;324;----;Sveg;;Sweden;6;62-02N;014-22E;;;360;360;P
+02;338;----;Edsbyn;;Sweden;6;61-22N;015-43E;;;184;185;
+02;355;----;Kuggoren;;Sweden;6;61-42N;017-32E;;;8;10;
+02;365;----;Sundvall-Harnlsand Flygplats;;Sweden;6;62-32N;017-27E;62-32N;017-27E;6;6;
+02;366;ESNN;Sundsvall-Harnosand Flygplats;;Sweden;6;62-32N;017-27E;62-32N;017-27E;4;10;P
+02;368;----;Bramon;;Sweden;6;62-13N;017-45E;;;20;;
+02;376;ESCL;Soderhamn;;Sweden;6;61-16N;017-06E;;;26;36;P
+02;382;----;Lungo;;Sweden;6;62-37N;018-04E;;;10;;
+02;400;----;Ostmark;;Sweden;6;60-21N;012-39E;;;308;310;P
+02;408;----;Blomskog;;Sweden;6;59-13N;012-05E;;;170;171;
+02;410;----;Malung;;Sweden;6;60-41N;013-43E;;;308;308;P
+02;415;----;Karlstad Sol;;Sweden;6;59-22N;013-28E;;;46;;
+02;417;----;Naven;;Sweden;6;58-42N;013-07E;;;53;0;
+02;418;ESSQ;Karlstad Flygplats;;Sweden;6;59-22N;013-28E;;;46;55;P
+02;424;----;Stalldalen;;Sweden;6;59-57N;014-57E;;;210;210;P
+02;432;----;Orebro;;Sweden;6;59-14N;015-03E;;;53;55;
+02;433;----;Falun;;Sweden;6;60-37N;015-40E;;;157;;
+02;435;ESSD;Borlange;;Sweden;6;60-26N;015-31E;;;145;0;
+02;443;ESSK;Gavle / Sandviken Air Force Base;;Sweden;6;60-36N;016-57E;;;79;;
+02;446;ESOW;Vasteras / Hasslo;;Sweden;6;59-35N;016-38E;;;6;31;P
+02;450;----;Eggegrund;;Sweden;6;60-44N;017-34E;;;5;;
+02;453;----;Gavle;;Sweden;6;60-43N;017-10E;;;16;0;
+02;456;----;Films Kyrkby;;Sweden;6;60-14N;017-54E;;;39;39;P
+02;458;ESCM;Uppsala;;Sweden;6;59-53N;017-36E;;;21;41;P
+02;460;ESSA;Stockholm / Arlanda;;Sweden;6;59-39N;017-57E;;;38;61;P
+02;464;ESSB;Stockholm / Bromma;;Sweden;6;59-21N;017-57E;59-21N;017-57E;14;14;
+02;476;----;Floda;;Sweden;6;59-03N;016-24E;;;19;20;
+02;483;----;Stockholm Kth;;Sweden;6;59-21N;018-04E;;;30;;
+02;485;----;Stockholm / Observatoriet;;Sweden;6;59-34N;018-06E;;;44;0;
+02;487;----;Stavsnas;;Sweden;6;59-18N;018-42E;;;;13;
+02;488;----;Orskar;;Sweden;6;60-32N;018-23E;;;8;9;
+02;489;----;Harsfjarden;;Sweden;6;59-04N;018-07E;;;4;9;P
+02;496;----;Svenska Hogarna;;Sweden;6;59-27N;019-30E;;;12;12;P
+02;499;----;Almagrundet;;Sweden;6;59-09N;019-08E;;;25;;
+02;500;----;Nordkoster;;Sweden;6;58-54N;011-00E;;;10;11;P
+02;501;----;Vaderoarna;;Sweden;6;58-35N;011-04E;;;;21;
+02;505;----;Maseskar;;Sweden;6;58-06N;011-20E;;;16;0;
+02;508;----;Maseskar Light House ;;Sweden;6;58-06N;011-21E;;;14;;
+02;512;ESGP;Goteborg / Save;;Sweden;6;57-47N;011-53E;;;20;53;P
+02;513;----;Goteborg;;Sweden;6;57-42N;012-00E;;;5;;
+02;516;----;Vinga;;Sweden;6;57-38N;011-37E;;;19;;
+02;517;----;Trubaduren;;Sweden;6;57-36N;011-38E;;;26;;
+02;518;----;Nidingen;;Sweden;6;57-18N;011-54E;;;2;0;
+02;519;----;Ringhals;;Sweden;6;57-16N;012-07E;;;;;
+02;520;ESIB;Satenas;;Sweden;6;58-26N;012-42E;;;54;74;P
+02;526;ESGG;Goteborg / Landvetter;;Sweden;6;57-40N;012-18E;;;169;;
+02;527;----;Goteborg / Landvetter;;Sweden;6;57-40N;012-18E;57-40N;012-18E;155;155;
+02;535;ESGR;Skovde Flygplats;;Sweden;6;58-27N;013-58E;;;98;105;
+02;536;----;Rangedala;;Sweden;6;57-47N;013-10E;;;297;299;
+02;545;----;Axstal;;Sweden;6;58-34N;014-34E;;;91;;
+02;550;ESGJ;Jonkoping Flygplats;;Sweden;6;57-46N;014-05E;;;226;232;P
+02;556;ESMV;Hagshult;;Sweden;6;57-18N;014-08E;;;169;172;P
+02;562;ESCF;Linkoping / Malmen;;Sweden;6;58-24N;015-31E;;;93;117;P
+02;564;----;Malexander;;Sweden;6;58-04N;015-14E;;;200;;
+02;565;ESSF;Hultsfred Swedish Air Force Base ;;Sweden;6;57-31N;015-50E;;;112;;
+02;566;----;Malilla;;Sweden;6;57-24N;015-50E;;;96;98;P
+02;567;----;Landsort;;Sweden;6;58-45N;017-52E;;;18;20;
+02;569;----;Stavsjo;;Sweden;6;58-44N;016-22E;;;60;;
+02;571;ESSP;Norrkoping;;Sweden;6;58-35N;016-09E;;;34;0;
+02;574;----;Smhi;;Sweden;6;58-35N;016-09E;;;32;;
+02;575;----;Olands Norra Udde;;Sweden;6;57-22N;017-06E;;;2;4;
+02;583;----;Gustaf Dalen;;Sweden;6;58-36N;017-28E;;;;21;
+02;584;----;Gotska Sandon;;Sweden;6;58-24N;019-12E;;;12;12;P
+02;586;----;Harstena;;Sweden;6;58-15N;017-01E;;;5;7;P
+02;590;ESSV;Visby Flygplats;;Sweden;6;57-40N;018-21E;;;51;47;P
+02;591;----;Visby Aerologiska Station;;Sweden;6;57-39N;018-21E;;;45;47;
+02;599;----;Nasudden;;Sweden;6;57-04N;018-13E;;;;;
+02;604;ESMT;Halmstad Swedish Air Force Base ;;Sweden;6;56-41N;012-50E;;;30;;
+02;605;----;Hallands Vadero;;Sweden;6;56-27N;012-33E;;;10;0;
+02;606;----;Kullen;;Sweden;6;56-18N;012-27E;;;72;72;P
+02;607;ESDB;Angelholm;;Sweden;6;56-18N;012-51E;;;20;47;P
+02;611;----;Helsingborg;;Sweden;6;56-02N;012-46E;;;43;44;
+02;614;----;Oskarsgrundet;;Sweden;6;55-36N;012-51E;;;3;0;
+02;616;----;Falsterbo;;Sweden;6;55-23N;012-49E;;;5;5;P
+02;620;----;Torup;;Sweden;6;56-58N;013-06E;;;85;;
+02;625;----;Skillinge;;Sweden;6;55-29N;014-19E;;;4;5;
+02;626;----;Osby;;Sweden;6;56-22N;013-57E;;;83;85;P
+02;627;----;Lund Lth;;Sweden;6;55-43N;013-13E;;;73;;
+02;628;----;Hano;;Sweden;6;56-01N;014-51E;;;60;0;
+02;630;ESDA;Ljungbyhed, Ljungbyhed, SWE-AFB;;Sweden;6;56-05-07N;013-12-26E;;;52;52;P
+02;635;----;Malmo;;Sweden;6;55-35N;013-01E;;;13;;
+02;636;ESMS;Malmo / Sturup;;Sweden;6;55-33N;013-22E;;;106;;
+02;641;ESMX;Vaxjo;;Sweden;6;56-51N;014-50E;;;199;200;
+02;644;----;Olands Sodra Udde;;Sweden;6;56-12N;016-24E;;;2;3;
+02;651;ESMK;Kristianstad / Everod;;Sweden;6;55-55N;014-05E;;;23;;
+02;664;ESDF;Ronneby;;Sweden;6;56-16N;015-17E;;;58;74;P
+02;666;----;Ungskar;;Sweden;6;56-02N;015-48E;;;3;;
+02;668;----;Kungsholms Fort;;Sweden;6;56-04N;015-35E;;;5;;
+02;670;----;Kalmar Flygplats;;Sweden;6;56-41N;016-18E;;;6;17;
+02;672;ESMQ;Kalmar;;Sweden;6;56-44N;016-18E;;;16;;
+02;680;----;Hoburg;;Sweden;6;56-55N;018-09E;;;38;39;P
+02;681;----;Vreta Kloster;;Sweden;6;58-29N;015-31E;;;52;;
+02;685;----;Olands Sodra Grund;;Sweden;6;56-04N;016-41E;;;;30;
+02;801;----;Kilpisjarvi;;Finland;6;69-03N;020-47E;;;478;476;
+02;805;----;Kevo;;Finland;6;69-45N;027-02E;;;107;101;
+02;807;EFIV;Ivalo;;Finland;6;68-37N;027-25E;;;147;148;P
+02;823;----;Muonio;;Finland;6;67-58N;023-41E;;;253;253;
+02;836;EFSO;Sodankyla;;Finland;6;67-22N;026-39E;67-22N;026-39E;179;179;P
+02;844;EFPE;Pello;;Finland;6;66-48N;024-00E;;;84;84;
+02;845;EFRO;Rovaniemi;;Finland;6;66-34N;025-50E;;;197;201;
+02;848;----;Salla;;Finland;6;66-49N;028-40E;;;221;223;
+02;863;----;Kemi I;;Finland;6;65-25N;024-08E;;;13;13;
+02;864;EFKE;Kemi;;Finland;6;65-47N;024-35E;;;15;;
+02;867;EFPU;Pudasjarvi;;Finland;6;65-22N;027-01E;;;114;117;
+02;869;EFKS;Kuusamo;;Finland;6;65-58N;029-11E;;;262;263;P
+02;874;EFHL;Hailuoto;;Finland;6;65-02N;024-48E;;;6;6;
+02;875;EFOU;Oulu;;Finland;6;64-56N;025-22E;;;12;15;P
+02;879;EFSU;Suomussalmi;;Finland;6;64-54N;029-01E;;;223;224;
+02;897;EFKI;Kajaani;;Finland;6;64-17N;027-41E;;;143;136;P
+02;901;----;Masskar;;Finland;6;63-44N;022-35E;;;11;13;
+02;903;EFKK;Kruunupyy;;Finland;6;63-43N;023-09E;;;25;;
+02;905;----;Nivala;;Finland;6;63-55N;024-58E;;;79;81;P
+02;907;----;Ulkokalla;;Finland;6;64-20N;023-36E;;;10;10;
+02;910;----;Valassaaret;;Finland;6;63-26N;021-04E;;;4;8;
+02;911;EFVA;Vaasa;;Finland;6;63-03N;021-46E;;;4;;
+02;912;----;Vaasa;;Finland;6;63-06N;021-35E;;;4;14;
+02;913;EFKA;Kauhava;;Finland;6;63-06N;023-02E;;;42;44;
+02;915;EFVI;Viitasaari;;Finland;6;63-05N;025-52E;;;132;132;
+02;917;EFKU;Kuopio;;Finland;6;63-01N;027-48E;63-01N;027-48E;98;102;P
+02;919;----;Ilomantsi;;Finland;6;62-41N;030-57E;;;162;165;
+02;921;----;Moikipaa;;Finland;6;62-53N;021-06E;;;4;13;
+02;924;EFHT;Ahtari;;Finland;6;62-32N;024-13E;;;157;161;
+02;929;EFJO;Joensuu;;Finland;6;62-40N;029-38E;;;119;117;P
+02;935;EFJY;Jyvaskyla;;Finland;6;62-24N;025-41E;62-24N;025-40E;141;145;P
+02;942;----;Niinisalo;;Finland;6;61-51N;022-28E;;;134;136;
+02;944;EFTP;Tampere / Pirkkala;;Finland;6;61-25N;023-35E;;;112;112;P
+02;945;EFHA;Halli;;Finland;6;61-51N;024-48E;;;143;145;
+02;947;EFMI;Mikkeli;;Finland;6;61-44N;027-18E;;;138;138;
+02;948;EFSA;Savonlinna;;Finland;6;61-57N;028-57E;;;95;95;
+02;952;EFPO;Pori;;Finland;6;61-28N;021-48E;;;13;17;P
+02;958;EFLP;Lappeenranta;;Finland;6;61-02-45N;028-08-55E;;;106;;
+02;961;----;Kuuskajaskari;;Finland;6;61-08N;021-22E;;;6;10;
+02;963;----;Jokioinen;;Finland;6;60-49N;023-30E;60-49N;023-30E;104;103;P
+02;965;----;Lahti;;Finland;6;60-58N;025-38E;;;83;84;
+02;966;EFUT;Utti;;Finland;6;60-54N;026-56E;;;100;100;
+02;970;EFMA;Mariehamn / Aland Island;;Finland;6;60-07N;019-54E;;;6;;
+02;971;----;Jomala;;Finland;6;60-09N;019-52E;;;9;10;
+02;972;EFTU;Turku;;Finland;6;60-31N;022-16E;60-31N;022-16E;49;59;P
+02;973;----;Suomusjarvi;;Finland;6;60-24N;023-46E;;;84;86;
+02;974;EFHK;Helsinki-Vantaa;;Finland;6;60-19N;024-58E;60-19N;024-58E;51;56;P
+02;975;EFHF;Helsinki-Malmi;;Finland;6;60-15N;025-03E;;;17;28;
+02;976;----;Rankki;;Finland;6;60-22N;026-58E;;;11;12;P
+02;980;----;Nyhamn;;Finland;6;59-58N;019-58E;;;8;10;
+02;981;----;Uto;;Finland;6;59-47N;021-23E;;;9;7;P
+02;982;----;Russaro;;Finland;6;59-46N;022-57E;;;6;11;P
+02;984;----;Bagaskar;;Finland;6;59-56N;024-01E;;;10;21;
+02;987;----;Kallbadagrund;;Finland;6;59-59N;025-36E;;;19;19;
+02;988;----;Isosaari;;Finland;6;60-06N;025-04E;;;4;5;
+02;990;----;Kumlinge;;Finland;6;60-18N;020-45E;;;4;5;
+02;993;----;Market;;Finland;6;60-18N;019-08E;;;11;11;
+03;001;----;Muckle Flugga;;United Kingdom;6;60-51N;000-53W;;;53;0;
+03;002;----;Baltasound;;United Kingdom;6;60-45N;000-51W;;;15;0;
+03;003;EGPB;Sumburgh Cape ;;United Kingdom;6;59-53N;001-18W;;;5;;
+03;005;----;Lerwick;;United Kingdom;6;60-08N;001-11W;60-08N;001-11W;82;84;P
+03;006;----;Sella Ness;;United Kingdom;6;60-27N;001-16W;;;7;0;
+03;007;----;Muckle Holm;;United Kingdom;6;60-35N;001-16W;;;22;0;
+03;008;----;Fair Isle;;United Kingdom;6;59-32N;001-38W;;;57;0;
+03;009;----;North Ronaldsay;;United Kingdom;6;59-22N;002-25W;;;11;;
+03;010;----;Sule Skerry;;United Kingdom;6;59-05N;004-24W;;;16;0;
+03;011;----;North Rona;;United Kingdom;6;59-07N;005-49W;;;98;0;
+03;013;----;Foula;;United Kingdom;6;60-09N;002-04W;;;22;;
+03;014;----;Foula;;United Kingdom;6;60-07N;002-04W;;;13;0;
+03;017;EGPA;Kirkwall Airport;;United Kingdom;6;58-57N;002-54W;;;21;0;P
+03;021;----;Lochboisdale;;United Kingdom;6;57-09N;007-19W;;;6;;
+03;022;EGPL;Benbecula;;United Kingdom;6;57-28N;007-22W;;;6;0;P
+03;023;----;South Uist Range;;United Kingdom;6;57-20N;007-22W;;;10;;
+03;025;----;Butt Of Lewis;;United Kingdom;6;58-31N;006-16W;;;23;0;
+03;026;EGPO;Stornoway;;United Kingdom;6;58-13N;006-19W;58-13N;006-19W;9;13;P
+03;027;----;Waterstein;;United Kingdom;6;57-26N;006-46W;;;83;;
+03;031;----;Loch Glascanoch;;United Kingdom;6;57-43N;004-53W;;;265;;
+03;034;----;Aultbea;;United Kingdom;6;57-52N;005-38W;;;11;0;
+03;035;----;Barra;;United Kingdom;6;57-02N;007-27W;;;3;;
+03;040;----;Kilmory;;United Kingdom;6;56-46N;006-03W;;;45;;
+03;041;----;Aonach Mor;;United Kingdom;6;56-49N;004-58W;;;1130;;
+03;044;----;Altnaharra;;United Kingdom;6;58-17N;004-26W;;;81;;
+03;047;----;Tulloch Bridge;;United Kingdom;6;56-52N;004-42W;;;237;0;
+03;049;----;Cape Wrath;;United Kingdom;6;58-38N;005-00W;;;112;0;
+03;054;----;Strathy Point;;United Kingdom;6;58-36N;004-01W;;;32;;
+03;055;----;Rackwick;;United Kingdom;6;58-52N;003-23W;;;20;;
+03;057;----;Foyers;;United Kingdom;6;57-16N;004-29W;;;21;0;
+03;058;----;Invergordon Harbour;;United Kingdom;6;57-41N;004-10W;;;3;0;
+03;059;EGPE;Inverness / Dalcross;;United Kingdom;6;57-32N;004-03W;;;9;0;
+03;062;EGQA;Tain Range;;United Kingdom;6;57-49N;003-58W;;;4;0;
+03;063;----;Aviemore;;United Kingdom;6;57-12N;003-50W;;;220;0;
+03;065;----;Cairngorm;;United Kingdom;6;57-07N;003-38W;;;1245;0;
+03;066;EGQK;Kinloss;;United Kingdom;6;57-39N;003-34W;57-39N;003-34W;7;0;P
+03;068;EGQS;Lossiemouth;;United Kingdom;6;57-43N;003-19W;;;13;;P
+03;070;----;Glenlivet;;United Kingdom;6;57-21N;003-21W;;;213;0;
+03;072;----;Cairnwell;;United Kingdom;6;56-53N;003-25W;;;933;0;
+03;074;----;Scrabster Harbour;;United Kingdom;6;58-37N;003-33W;;;10;;
+03;075;EGPC;Wick;;United Kingdom;6;58-27N;003-05W;;;39;0;P
+03;076;----;Temp For 03075;;United Kingdom;6;58-27N;003-06W;;;39;;
+03;077;----;Lybster;;United Kingdom;6;58-19N;003-17W;;;85;;
+03;080;----;Aboyne;;United Kingdom;6;57-05N;002-50W;;;140;0;
+03;085;----;Inchmarlo;;United Kingdom;6;57-04N;002-32W;;;80;;
+03;088;----;Inverbervie;;United Kingdom;6;56-51N;002-16W;;;134;0;
+03;091;EGPD;Aberdeen / Dyce;;United Kingdom;6;57-12N;002-13W;57-12N;002-13W;65;0;P
+03;092;----;Peterhead Harbour;;United Kingdom;6;57-30N;001-46W;;;15;0;
+03;094;----;Rosehearty;;United Kingdom;6;57-42N;002-07W;;;4;0;
+03;100;EGPU;Tiree;;United Kingdom;6;56-30N;006-53W;;;12;0;P
+03;102;----;Orsay;;United Kingdom;6;55-40N;006-30W;;;23;0;
+03;111;EGQJ;Machrihanish;;United Kingdom;6;55-26N;005-42W;;;13;0;
+03;114;----;Oban;;United Kingdom;6;56-25N;005-28W;;;4;0;
+03;120;----;Lochranza;;United Kingdom;6;55-42N;005-18W;;;46;;
+03;121;----;Kildonan;;United Kingdom;6;55-26N;005-06W;;;18;;
+03;130;----;West Freugh;;United Kingdom;6;54-51N;004-57W;;;17;0;
+03;132;EGOY;West Freugh;;United Kingdom;6;54-51N;004-57W;;;11;0;
+03;135;EGPK;Prestwick Airport;;United Kingdom;6;55-30N;004-35W;;;20;0;P
+03;136;----;Prestwick Rnas;;United Kingdom;6;55-31N;004-35W;;;26;0;
+03;137;----;Whithorn;;United Kingdom;6;54-42N;004-25W;;;40;;
+03;138;----;Greenock Mrcc;;United Kingdom;6;55-58N;004-48W;;;5;0;
+03;139;----;Saughall;;United Kingdom;6;55-36N;004-13W;;;221;;
+03;140;EGPF;Glasgow Airport;;United Kingdom;6;55-52N;004-26W;;;8;0;P
+03;144;----;Strathallan;;United Kingdom;6;56-19N;003-44W;;;35;0;
+03;148;----;Glen Ogle;;United Kingdom;6;56-25N;004-19W;;;564;;
+03;152;----;Salsburgh;;United Kingdom;6;55-52N;003-52W;;;277;;
+03;153;----;Dundrennan;;United Kingdom;6;54-48N;004-00W;;;114;0;
+03;154;----;Dumfries / Drungans;;United Kingdom;6;55-03N;003-39W;;;16;0;
+03;155;----;Drumalbin;;United Kingdom;6;55-37N;003-44W;;;245;;
+03;158;----;Charterhall;;United Kingdom;6;55-42N;002-23W;;;112;0;
+03;160;EGPH;Edinburgh Airport;;United Kingdom;6;55-57N;003-21W;;;41;0;P
+03;162;----;Eskdalemuir;;United Kingdom;6;55-19N;003-12W;;;242;0;P
+03;165;EGOM;Spadeadam;;United Kingdom;6;55-03N;002-33W;;;325;;
+03;168;----;Galashiels;;United Kingdom;6;55-36N;002-54W;;;146;;
+03;171;EGQL;Leuchars;;United Kingdom;6;56-23N;002-52W;;;12;0;P
+03;174;----;Fife Ness;;United Kingdom;6;56-18N;002-35W;;;12;0;
+03;176;----;Carterhouse;;United Kingdom;6;55-22N;002-31W;;;308;;
+03;188;----;Berwick Upon Tweed;;United Kingdom;6;55-45N;002-02W;;;42;;
+03;204;EGNS;Isle Of Man / Ronaldsway Airport;;United Kingdom;6;54-05N;004-38W;;;17;0;P
+03;207;----;Snaefell-Isle;;United Kingdom;6;54-16N;004-28W;;;615;;
+03;208;----;Point Of Ayre Lighthouse ;;United Kingdom;6;54-25N;004-22W;;;9;;
+03;209;----;Drumburgh;;United Kingdom;6;54-56N;003-09W;;;7;;
+03;210;----;Saint Bees Head;;United Kingdom;6;54-31N;003-36W;;;124;0;
+03;212;----;Keswick;;United Kingdom;6;54-37N;003-10W;;;81;0;
+03;213;----;Eskmeals;;United Kingdom;6;54-19N;003-24W;54-19N;003-24W;8;9;
+03;214;EGNL;Walney Island;;United Kingdom;6;54-07N;003-15W;;;15;0;
+03;215;----;Aspatria;;United Kingdom;6;54-46N;003-19W;;;61;0;
+03;220;----;Carlisle;;United Kingdom;6;54-56N;002-58W;;;28;0;
+03;222;EGNC;Carlisle;;United Kingdom;6;54-56N;002-57W;;;26;;
+03;224;----;Spadeadam;;United Kingdom;6;55-03N;002-33W;;;285;;
+03;225;----;Shap;;United Kingdom;6;54-30N;002-41W;;;249;0;
+03;226;----;Warcop Range;;United Kingdom;6;54-34N;002-25W;;;227;0;
+03;227;----;Great Dun Fell;;United Kingdom;6;51-41N;002-27W;;;847;0;
+03;229;----;Great Dun Fell;;United Kingdom;6;54-41N;002-27W;;;847;;
+03;230;----;Redesdale;;United Kingdom;6;55-17N;002-17W;;;211;0;
+03;235;----;Boltshope Park;;United Kingdom;6;54-49N;002-05W;;;434;;
+03;240;EGQM;Boulmer;;United Kingdom;6;55-25N;001-36W;55-25N;001-36W;23;0;P
+03;241;----;Long Framlington;;United Kingdom;6;55-18N;001-48W;;;158;;
+03;242;----;Burnhope;;United Kingdom;6;54-49N;001-43W;;;240;;
+03;246;----;Newcastle Weather Centre;;United Kingdom;6;54-59N;001-36W;;;30;;
+03;249;----;Sunderland Polytech;;United Kingdom;6;54-54N;001-23W;;;56;;
+03;257;EGXE;Leeming;;United Kingdom;6;54-18N;001-32W;54-18N;001-32W;40;40;
+03;261;EGXD;Disforth;;United Kingdom;6;54-08N;001-25W;;;36;0;
+03;262;----;Tynemouth;;United Kingdom;6;55-01N;001-25W;;;30;0;
+03;266;EGXU;Linton-On-Ouse;;United Kingdom;6;54-03N;001-15W;;;16;0;
+03;275;----;Loftus Samos;;United Kingdom;6;54-34N;000-52W;;;58;;
+03;281;----;Fylingdales;;United Kingdom;6;54-22N;000-40W;;;262;0;
+03;282;----;Whitby;;United Kingdom;6;54-29N;000-36W;;;60;0;
+03;292;----;Bridlington Mrsc;;United Kingdom;6;54-06N;000-10W;;;15;0;
+03;293;----;Cowden;;United Kingdom;6;53-51N;000-06W;;;15;;
+03;302;EGOV;Valley;;United Kingdom;6;53-15N;004-32W;;;1;0;P
+03;303;----;Amlwch;;United Kingdom;6;53-23N;004-22W;;;114;;
+03;305;----;Capel Curig;;United Kingdom;6;53-06N;003-56W;;;216;0;
+03;308;----;Snowdon Summit;;United Kingdom;6;53-04N;004-05W;;;1070;;
+03;313;----;Rhyl;;United Kingdom;6;53-15N;003-30W;;;77;0;
+03;314;----;Moel-Y-Crio;;United Kingdom;6;53-13N;003-13W;;;263;0;
+03;316;----;Crosby;;United Kingdom;6;53-30N;003-04W;;;8;;
+03;318;EGNH;Blackpool Airport;;United Kingdom;6;53-46N;003-02W;;;10;0;P
+03;321;EGNR;Hawarden;;United Kingdom;6;53-10N;002-59W;;;10;0;
+03;322;----;Aughton;;United Kingdom;6;53-33N;002-55W;53-33N;002-55W;56;54;
+03;329;----;Winter Hill;;United Kingdom;6;53-37N;002-31W;;;440;;
+03;334;EGCC;Manchester Airport;;United Kingdom;6;53-21N;002-17W;;;69;0;P
+03;338;----;Cellarhead;;United Kingdom;6;53-02N;002-05W;;;228;0;
+03;339;----;Skipton;;United Kingdom;6;53-58N;002-02W;;;153;;
+03;344;----;Bingley;;United Kingdom;6;53-49N;001-52W;;;262;0;
+03;345;----;Emley Moor;;United Kingdom;6;53-37N;001-40W;53-37N;001-40W;259;259;
+03;347;----;Leeds Weather Centre;;United Kingdom;6;53-48N;001-33W;;;47;;
+03;354;----;Nottingham Weather Centre;;United Kingdom;6;53-00N;001-15W;;;117;0;P
+03;355;EGXG;Church Fenton;;United Kingdom;6;53-50N;001-12W;;;9;0;
+03;377;EGXW;Waddington;;United Kingdom;6;53-10N;000-31W;53-10N;000-31W;68;0;P
+03;379;EGYD;Cranwell;;United Kingdom;6;53-02N;000-30W;;;67;0;
+03;384;EGXV;Leconfield;;United Kingdom;6;53-52N;000-26W;;;6;0;
+03;385;----;Donna Nook;;United Kingdom;6;53-29N;000-05E;;;8;;
+03;387;----;Easington;;United Kingdom;6;53-40N;000-07E;;;10;0;
+03;391;EGXC;Coningsby Royal Air Force Base;;United Kingdom;6;53-05N;000-10W;;;7;;
+03;392;EGYW;Wainfleet;;United Kingdom;6;53-05N;000-16E;;;3;0;
+03;402;----;Mynydd Rhiw;;United Kingdom;6;52-49N;004-38W;;;253;;
+03;403;----;Nantmor;;United Kingdom;6;53-00N;004-05W;;;53;;
+03;405;----;Aberdaron;;United Kingdom;6;52-47N;004-44W;;;95;0;
+03;408;----;Cynwyd;;United Kingdom;6;52-57N;003-25W;;;228;0;
+03;410;----;Lake Vyrnwy;;United Kingdom;6;52-45N;003-28W;;;360;0;
+03;411;----;Aberhosan;;United Kingdom;6;52-34N;003-43W;;;244;;
+03;414;EGOS;Shawbury;;United Kingdom;6;52-48N;002-40W;;;76;0;P
+03;453;EGXJ;Cottesmore;;United Kingdom;6;52-44N;000-39W;;;138;;
+03;462;EGXT;Wittering;;United Kingdom;6;52-37N;000-28W;;;84;0;
+03;469;EGYH;Holbeach;;United Kingdom;6;52-52N;000-09E;;;3;0;
+03;482;EGYM;Marham;;United Kingdom;6;52-39N;000-34E;;;23;0;P
+03;488;----;Weybourne;;United Kingdom;6;52-57N;001-08E;;;21;0;
+03;492;EGSH;Norwich Weather Centre;;United Kingdom;6;52-38N;001-18E;;;14;0;
+03;495;EGYC;Coltishall;;United Kingdom;6;52-26N;001-21E;;;20;0;P
+03;496;----;Hemsby;;United Kingdom;6;52-41N;001-41E;52-41N;001-41E;13;14;P
+03;501;----;Capel Dewi;;United Kingdom;6;52-25N;004-00W;55-25N;004-00W;92;92;
+03;502;EGUC;Aberporth;;United Kingdom;6;52-08N;004-34W;52-08N;004-34W;133;134;P
+03;503;----;Trawscoed;;United Kingdom;6;52-21N;003-57W;;;63;0;
+03;507;----;Sennybridge;;United Kingdom;6;52-04N;003-37W;;;307;0;
+03;511;----;Newcastle On Clun;;United Kingdom;6;52-26N;003-07W;;;215;;
+03;520;----;Shobdon;;United Kingdom;6;52-15N;002-53W;;;99;0;
+03;521;----;Madley;;United Kingdom;6;52-02N;002-51W;;;77;0;
+03;525;----;Malvern;;United Kingdom;6;52-05N;002-18W;;;53;53;
+03;526;----;Barbourne;;United Kingdom;6;52-12N;002-13W;;;25;;
+03;527;----;Great Malvern;;United Kingdom;6;52-07N;002-18W;;;46;0;
+03;529;----;Pershore;;United Kingdom;6;52-09N;002-02W;;;32;0;
+03;534;EGBB;Birmingham / Airport;;United Kingdom;6;52-27N;001-44W;;;99;0;P
+03;544;----;Church Lawford;;United Kingdom;6;52-22N;001-20W;;;107;0;
+03;559;----;Cardington;;United Kingdom;6;52-06N;000-25W;52-06N;000-25W;30;30;
+03;560;----;Bedford;;United Kingdom;6;52-13N;000-29W;;;85;0;
+03;562;EGWZ;Alconbury Royal Air Force Base;;United Kingdom;6;52-22N;000-13W;;;49;;
+03;566;EGUY;Wyton Royal Air Force Base;;United Kingdom;6;52-21N;000-07W;;;41;;
+03;577;EGUN;Mildenhall Royal Air Force Base;;United Kingdom;6;52-22N;000-29E;;;10;;
+03;583;EGUL;Lakenheath Royal Air Force Base;;United Kingdom;6;52-25N;000-34E;;;10;;
+03;586;EGXH;Honington Royal Air Force Base;;United Kingdom;6;52-20N;000-46E;52-20N;000-46E;54;54;
+03;590;EGUW;Wattisham;;United Kingdom;6;52-07N;000-58E;;;87;0;P
+03;604;----;Milford Haven;;United Kingdom;6;51-42N;005-03W;;;44;0;
+03;605;EGOP;Pembrey Sands;;United Kingdom;6;51-43N;004-22W;;;3;;
+03;607;----;Pendine;;United Kingdom;6;51-45N;004-31W;;;5;0;
+03;608;----;Pendine;;United Kingdom;6;51-45N;004-31W;;;5;0;
+03;609;----;Mumbles;;United Kingdom;6;51-34N;003-59W;;;35;0;
+03;614;----;Cilfynydd;;United Kingdom;6;51-38N;003-18W;;;194;;
+03;644;EGVA;Fairford Royal Air Force Base;;United Kingdom;6;51-41N;001-47W;;;87;;
+03;647;----;Little Rissington;;United Kingdom;6;51-52N;001-41W;;;215;0;
+03;649;EGVN;Brize Norton;;United Kingdom;6;51-45N;001-35W;51-45N;001-35W;88;0;P
+03;658;EGUB;Benson;;United Kingdom;6;51-37N;001-05W;;;63;0;P
+03;660;----;High Wicombe Hqstc;;United Kingdom;6;51-41N;000-48W;;;204;;
+03;670;----;Northwood;;United Kingdom;6;51-37N;000-24W;;;113;0;
+03;672;EGWU;Northolt;;United Kingdom;6;51-33N;000-25W;;;38;0;
+03;674;----;Chenies;;United Kingdom;6;51-41N;000-32W;;;139;0;
+03;683;EGSS;Stansted Airport;;United Kingdom;6;51-53N;000-14E;;;106;0;P
+03;693;----;Shoeburyness;;United Kingdom;6;51-33N;000-50E;51-33N;000-50E;2;3;
+03;695;----;Thames Tower;;United Kingdom;6;51-40N;001-06E;;;8;0;
+03;696;----;Walton-On-Naze;;United Kingdom;6;51-51N;001-17E;;;3;0;
+03;700;----;Saint Gowan L. V.;;United Kingdom;6;51-30N;005-00W;;;5;;
+03;701;----;Gawlish;;United Kingdom;6;51-01N;004-29W;;;122;;
+03;707;EGDC;Chivenor;;United Kingdom;6;51-05N;004-09W;;;8;0;
+03;710;----;Liscombe;;United Kingdom;6;51-05N;003-36W;;;348;0;
+03;712;----;Tivington;;United Kingdom;6;51-12N;003-32W;;;80;0;
+03;715;EGFF;Cardiff-Wales Airport;;United Kingdom;6;51-24N;003-21W;51-24N;003-21W;67;0;P
+03;717;----;Cardiff Weather Centre;;United Kingdom;6;51-29N;003-11W;;;9;0;
+03;726;----;Bristol Weather Centre;;United Kingdom;6;51-28N;002-36W;;;11;;
+03;740;EGDL;Lyneham;;United Kingdom;6;51-30N;001-59W;;;145;0;P
+03;743;----;Larkhill;;United Kingdom;6;51-12N;001-48W;51-12N;001-48W;132;133;
+03;746;EGDM;Boscombe Down;;United Kingdom;6;51-10N;001-45W;;;124;0;P
+03;749;EGVP;Middle Wallop;;United Kingdom;6;51-09N;001-34W;;;91;0;
+03;759;----;Test Samos 03761;;United Kingdom;6;51-15N;000-57W;;;123;;
+03;761;EGVO;Odiham;;United Kingdom;6;51-14N;000-57W;;;123;0;
+03;763;EGRR;Bracknell / Beaufort Park;;United Kingdom;6;51-23N;000-47W;;;74;0;
+03;766;EGUF;Farnborough Military ;;United Kingdom;6;51-17N;000-46W;;;72;;
+03;768;EGLF;Farnborough;;United Kingdom;6;51-17N;000-46W;;;65;0;
+03;772;EGLL;London / Heathrow Airport;;United Kingdom;6;51-29N;000-27W;;;24;0;P
+03;776;EGKK;London / Gatwick Airport;;United Kingdom;6;51-09N;000-11W;;;62;0;P
+03;779;EGRB;London Weather Centre;;United Kingdom;6;51-31N;000-07W;;;5;0;
+03;781;----;Kenley;;United Kingdom;6;51-18N;000-05W;;;170;0;
+03;784;----;Gravesend-Broadness;;United Kingdom;6;51-28N;000-18E;;;3;;
+03;785;----;Charing;;United Kingdom;6;51-12N;000-47E;;;91;;
+03;789;----;Jubilee Corner;;United Kingdom;6;51-11N;000-38E;;;47;0;
+03;791;----;Sheerness;;United Kingdom;6;51-27N;000-45E;;;25;0;
+03;796;----;Langdon Bay;;United Kingdom;6;51-08N;001-21E;;;117;0;
+03;797;EGUM;Manston;;United Kingdom;6;51-21N;001-21E;;;55;0;P
+03;803;EGHE;Scilly, Saint Mary'S;;United Kingdom;6;49-55N;006-18W;;;31;0;
+03;808;----;Camborne;;United Kingdom;6;50-13N;005-19W;50-13N;005-19W;87;88;P
+03;809;EGDR;Culdrose;;United Kingdom;6;50-05N;005-15W;;;78;0;P
+03;810;----;Pendennis Point;;United Kingdom;6;50-09N;005-04W;;;35;0;
+03;815;----;Lizard Lighthouse;;United Kingdom;6;49-58N;005-12W;;;60;;
+03;817;EGDG;Saint Mawgan;;United Kingdom;6;50-26N;005-00W;;;119;0;P
+03;820;----;Davidstow Moor;;United Kingdom;6;50-38N;004-36W;;;291;;
+03;823;----;Cardinham;;United Kingdom;6;50-30N;004-40W;;;200;0;
+03;824;----;Bastreet;;United Kingdom;6;50-34N;004-29W;;;233;;
+03;827;EGDB;Plymouth;;United Kingdom;6;50-21N;004-07W;;;50;0;P
+03;830;----;Burrington;;United Kingdom;6;50-56N;003-59W;;;199;;
+03;831;----;North Hessary Tor;;United Kingdom;6;50-33N;004-00W;;;510;;
+03;837;----;Brixham;;United Kingdom;6;50-24N;003-29W;;;3;;
+03;839;EGTE;Exeter Airport;;United Kingdom;6;50-44N;003-25W;;;30;;
+03;840;----;Dunkeswell Aerodrome;;United Kingdom;6;50-52N;003-14W;;;252;;
+03;841;----;Temp For 03840;;United Kingdom;6;50-52N;003-15W;;;255;;
+03;853;EGDY;Yeovilton;;United Kingdom;6;51-00N;002-38W;;;23;0;P
+03;857;----;Isle Of Portland;;United Kingdom;6;50-31N;002-28W;;;53;;
+03;858;EGDP;Portland / Rnas;;United Kingdom;6;50-34N;002-27W;;;3;0;
+03;862;EGHH;Bournemouth Airport;;United Kingdom;6;50-47N;001-50W;;;11;0;P
+03;865;EGHI;Southampton / Weather Centre;;United Kingdom;6;50-54N;001-24W;;;9;0;
+03;866;----;Saint Catherine's Point;;United Kingdom;6;50-35N;001-18W;;;16;;
+03;867;----;Lee-On-Solent;;United Kingdom;6;50-49N;001-13W;;;10;0;
+03;872;----;Thorney Island;;United Kingdom;6;50-49N;000-55W;;;4;0;
+03;874;----;Solent M. R. S. C.;;United Kingdom;6;50-48N;001-13W;;;9;0;
+03;876;EGKA;Shoreham Airport;;United Kingdom;6;50-50N;000-17W;;;2;0;
+03;880;----;Newhaven;;United Kingdom;6;50-47N;000-03E;;;5;0;
+03;881;----;Brede;;United Kingdom;6;50-56N;000-36E;;;82;;
+03;882;----;Herstmonceux;;United Kingdom;6;50-54N;000-19E;50-54N;000-19E;52;0;P
+03;894;EGJB;Guernsey Airport;;United Kingdom;6;49-26N;002-36W;;;102;0;P
+03;895;EGJJ;Jersey Airport;;United Kingdom;6;49-13N;002-12W;;;84;0;P
+03;896;----;Saint Helier;;United Kingdom;6;49-12N;002-06W;;;54;;
+03;900;----;Knockarevan;;United Kingdom;6;54-25N;008-05W;;;50;;
+03;902;----;Corgary;;United Kingdom;6;54-26N;008-03W;;;45;0;
+03;903;----;St Angelo;;United Kingdom;6;54-24N;007-39W;;;47;0;
+03;904;----;Castlederg;;United Kingdom;6;54-42N;007-35W;;;51;0;
+03;906;----;Carmoney;;United Kingdom;6;55-01N;007-14W;;;73;;
+03;908;----;Ballykelly;;United Kingdom;6;55-04N;007-01W;;;2;0;
+03;911;----;Lough Fea;;United Kingdom;6;54-43N;006-49W;;;225;0;
+03;912;----;Moyola;;United Kingdom;6;54-43N;006-31W;;;17;0;
+03;914;----;Portrush;;United Kingdom;6;55-12N;006-39W;;;8;0;
+03;915;----;Portglenone;;United Kingdom;6;54-52N;006-27W;;;64;;
+03;916;----;Ballypatrick Forest;;United Kingdom;6;55-11N;006-10W;;;156;0;
+03;917;EGAA;Belfast / Aldergrove Airport;;United Kingdom;6;54-39N;006-13W;;;81;0;P
+03;920;----;Hillsborough;;United Kingdom;6;54-29N;006-06W;54-29N;006-06W;37;38;P
+03;923;----;Glenanne;;United Kingdom;6;54-14N;006-30W;;;161;0;
+03;924;EGAC;Belfast / Harbour;;United Kingdom;6;54-36N;005-53W;;;5;0;
+03;926;----;Killough;;United Kingdom;6;54-14N;005-37W;;;15;;
+03;927;----;Bangor Harbour;;United Kingdom;6;54-40N;005-40W;;;11;;
+03;928;----;Larne;;United Kingdom;6;54-51N;005-48W;;;3;;
+03;952;----;Roches Point;;Ireland;6;51-48N;008-15W;;;40;41;P
+03;953;----;Valentia Observatory;;Ireland;6;51-56N;010-15W;51-56N;010-15W;9;14;P
+03;955;EICK;Cork Airport;;Ireland;6;51-51N;008-29W;;;153;162;P
+03;957;----;Rosslare;;Ireland;6;52-15N;006-20W;52-15N;006-20W;23;25;P
+03;960;----;Kilkenny;;Ireland;6;52-40N;007-16W;;;63;64;P
+03;962;EINN;Shannon Airport;;Ireland;6;52-42N;008-55W;;;14;20;P
+03;964;----;Galway;;Ireland;6;53-17N;009-01W;;;18;21;P
+03;965;----;Birr;;Ireland;6;53-05N;007-53W;;;70;72;P
+03;967;EIME;Casement Aerodrome;;Ireland;6;53-18N;006-26W;;;97;93;P
+03;969;EIDW;Dublin Airport;;Ireland;6;53-26N;006-15W;;;68;85;P
+03;970;----;Claremorris;;Ireland;6;53-43N;008-59W;;;69;69;P
+03;971;----;Mullingar;;Ireland;6;53-32N;007-22W;;;101;104;P
+03;973;----;Connaught Airport;;Ireland;6;53-54N;008-49W;;;203;209;
+03;974;----;Clones;;Ireland;6;54-11N;007-14W;;;87;89;P
+03;976;----;Belmullet;;Ireland;6;54-14N;010-00W;54-14N;010-00W;9;10;P
+03;978;----;Finner;;Ireland;6;54-30N;008-14W;;;39;45;
+03;980;----;Malin Head;;Ireland;6;55-22N;007-20W;55-22N;007-20W;20;25;P
+04;001;----;Breidavik;;Iceland;6;65-32N;024-21W;;;20;;
+04;003;----;Kvigindisdalur;;Iceland;6;65-33N;024-01W;;;49;;
+04;005;----;Bolungavik;;Iceland;6;66-09N;023-15W;;;23;24;
+04;007;----;Holar I Dyrafirdi;;Iceland;6;65-52N;023-36W;;;30;;
+04;010;----;Nedri-Holl;;Iceland;6;64-48N;023-02W;;;8;;
+04;013;BIST;Stykkisholmur;;Iceland;6;65-05N;022-44W;;;8;8;
+04;014;----;Reykjanesviti;;Iceland;6;63-49N;022-43W;;;20;26;
+04;017;----;Aedey;;Iceland;6;66-06N;022-40W;;;5;;
+04;018;BIKF;Keflavikurflugvollur;;Iceland;6;63-58N;022-36W;63-58N;022-36W;52;54;P
+04;025;----;Reykholar;;Iceland;6;65-27N;022-12W;;;11;;
+04;027;----;Asgardur;;Iceland;6;65-14N;021-45W;;;10;;
+04;030;BIRK;Reykjavik;;Iceland;6;64-08N;021-54W;;;54;61;P
+04;034;----;Stafholtsey;;Iceland;6;64-37N;021-36W;;;14;;
+04;038;----;Eyrarbakki;;Iceland;6;63-52N;021-09W;;;5;5;
+04;041;----;Tannstadabakki;;Iceland;6;65-17N;021-06W;;;8;;
+04;042;----;Hjardarland;;Iceland;6;64-15N;020-25W;;;101;;
+04;044;----;Hella;;Iceland;6;63-50N;020-24W;;;20;;
+04;045;----;Blonduos;;Iceland;6;65-40N;020-18W;;;23;22;
+04;048;BIVM;Vestmannaeyjar;;Iceland;6;63-24N;020-17W;;;118;124;P
+04;050;----;Haell;;Iceland;6;64-04N;020-15W;;;121;;
+04;051;----;Hraun A Skaga;;Iceland;6;66-07N;020-07W;;;3;;
+04;052;----;Basar;;Iceland;6;64-41N;019-29W;;;240;;
+04;053;----;Bergstadir;;Iceland;6;65-42N;019-37W;;;43;43;
+04;055;----;Nautabu;;Iceland;6;65-27N;019-22W;;;115;;
+04;056;----;Hveravellir;;Iceland;6;64-52N;019-34W;;;641;642;
+04;058;----;Vatnsskardsholar;;Iceland;6;63-25N;019-11W;;;20;;
+04;059;----;Saudanesviti;;Iceland;6;66-11N;018-58W;;;30;;
+04;062;----;Nordurhjaleiga;;Iceland;6;63-30N;018-23W;;;18;;
+04;063;BIAR;Akureyri;;Iceland;6;65-41N;018-05W;;;23;27;P
+04;064;----;Kirkjubaejarklaustur;;Iceland;6;63-47N;018-04W;;;32;38;
+04;065;BIGR;Grimsey;;Iceland;6;66-32N;018-01W;;;15;16;
+04;066;----;Versalir;;Iceland;6;64-27N;018-45W;;;610;;
+04;069;----;Stadarholl;;Iceland;6;65-49N;017-12W;;;42;;
+04;071;----;Manarbakki;;Iceland;6;66-12N;017-06W;;;17;;
+04;072;----;Fagurholsmyri;;Iceland;6;63-53N;016-39W;;;46;;
+04;073;----;Grimsstadir;;Iceland;6;65-38N;016-07W;;;384;386;
+04;077;BIRG;Raufarhofn;;Iceland;6;66-27N;015-57W;;;8;8;P
+04;080;----;Snaefellsskali;;Iceland;6;64-48N;015-38W;;;810;;
+04;081;----;Saudanes;;Iceland;6;66-15N;015-16W;;;17;;
+04;082;BIHN;Akurnes;;Iceland;6;64-18N;015-13W;;;17;21;P
+04;085;BIVO;Skjaldthingsstadir;;Iceland;6;65-42N;014-49W;;;44;48;
+04;087;----;Strandhofn;;Iceland;6;65-54N;014-39W;;;20;19;
+04;089;BIEG;Egilsstadir;;Iceland;6;65-17N;014-24W;;;23;23;
+04;091;----;Reydarfjordur;;Iceland;6;65-02N;014-14W;;;25;;
+04;094;----;Nupur;;Iceland;6;64-42N;014-06W;;;25;;
+04;097;----;Dalatangi;;Iceland;6;65-16N;013-35W;;;9;11;P
+04;101;----;Bjargtangar;;Iceland;6;65-30N;024-31W;;;35;36;
+04;103;----;Patreksfjordur;;Iceland;6;65-36N;024-00W;;;3;4;
+04;104;----;Gufuskalar;;Iceland;6;64-54N;023-56W;;;6;7;
+04;109;----;Thverfjall;;Iceland;6;66-03N;023-19W;;;752;753;
+04;110;----;Navy Operated Automatic Meteorological Observing System ;;Greenland;6;72-17N;038-48W;;;3195;;
+04;115;----;Dynjandiheidi;;Iceland;6;65-42N;023-05W;;;620;621;
+04;119;----;Thingmannaheidi;;Iceland;6;65-38N;022-48W;;;298;299;
+04;120;----;Grindavik;;Iceland;6;63-51N;022-25W;;;3;4;
+04;124;----;Straumsvik;;Iceland;6;64-03N;022-20W;;;4;5;
+04;126;----;Grundartangi;;Iceland;6;64-21N;021-47W;;;4;5;
+04;130;----;Reykjavik;;Iceland;6;64-08N;021-54W;;;52;53;
+04;131;----;Gjogur;;Iceland;6;65-59N;021-21W;;;31;32;
+04;140;----;Thorlakshofn;;Iceland;6;63-51N;021-23W;;;4;5;
+04;149;----;Kolka;;Iceland;6;65-24N;019-43W;;;504;505;
+04;154;----;Burfell;;Iceland;6;64-05N;019-44W;;;248;249;
+04;160;----;Thufuver;;Iceland;6;64-35N;018-36W;;;613;614;
+04;161;----;Dalvik;;Iceland;6;65-58N;018-32W;;;3;4;
+04;162;----;Veidivatnahraun;;Iceland;6;64-24N;018-30W;;;647;648;
+04;165;----;Grimsey;;Iceland;6;66-32N;018-01W;;;16;17;
+04;166;----;Jokulheimar;;Iceland;6;64-19N;018-13W;;;726;727;
+04;168;----;Sandbudir;;Iceland;6;64-56N;017-59W;;;820;821;
+04;170;----;Skardsfjoruviti;;Iceland;6;63-31N;017-59W;;;8;9;
+04;180;----;Hvanney;;Iceland;6;64-14N;015-12W;;;4;5;
+04;183;----;Fontur;;Iceland;6;66-23N;014-32W;;;43;44;
+04;193;----;Gagnheidi;;Iceland;6;65-13N;014-16W;;;948;949;
+04;196;----;Kambanes;;Iceland;6;64-48N;013-51W;;;34;;
+04;197;----;Dalatangi;;Iceland;6;65-16N;013-35W;;;10;11;
+04;201;----;Qaanaaq;;Greenland;6;77-28N;063-13W;;;16;19;
+04;202;BGTL;Thule A. B.;;Greenland;6;76-32N;068-45W;76-32N;068-45W;77;77;P
+04;203;----;Carey Isl.;;Greenland;6;76-38N;073-00W;;;11;11;
+04;207;----;Hall Land;;Greenland;6;81-41N;059-57W;;;105;105;
+04;208;----;Edderfugle Oeer;;Greenland;6;74-02N;057-49W;;;40;40;
+04;210;----;Upernavik;;Greenland;6;72-47N;056-10W;;;120;122;
+04;214;----;Nuussuaq;;Greenland;6;70-41N;054-37W;;;27;27;
+04;220;BGEM;Egedesminde;;Greenland;6;68-42N;052-45W;68-42N;052-45W;43;41;P
+04;221;BGJN;Jacobshavn Lufthavn;;Greenland;6;69-14N;051-04W;;;29;31;
+04;228;----;Attu Kitsissut;;Greenland;6;67-47N;053-58W;;;12;12;
+04;230;BGHB;Holsteinsborg;;Greenland;6;66-55N;053-40W;;;12;9;P
+04;231;BGSF;Sdr Stroemfjord;;Greenland;6;67-01N;050-42W;67-00N;050-48W;50;53;P
+04;242;----;Sioralik;;Greenland;6;65-01N;052-33W;;;14;14;
+04;250;BGGH;Godthaab / Nuuk;;Greenland;6;64-10N;051-45W;;;80;70;P
+04;253;----;Frederikshaab Isblink;;Greenland;6;62-34N;050-25W;;;22;22;
+04;254;----;Godthaab Lufthavn;;Greenland;6;64-12N;051-41W;;;86;92;
+04;260;BGFH;Frederikshaab;;Greenland;6;62-00N;049-40W;;;13;15;P
+04;261;BGGD;Groennedal;;Greenland;6;61-14N;048-06W;;;35;32;
+04;266;----;Nunarsuit;;Greenland;6;60-46N;048-25W;;;33;33;
+04;270;BGBW;Narsarsuaq;;Greenland;6;61-10N;045-25W;61-11N;045-26W;34;32;P
+04;272;BGJH;Julianehaab;;Greenland;6;60-43N;046-03W;;;32;34;P
+04;285;BGAS;Angisoq;;Greenland;6;59-59N;045-12W;;;16;16;
+04;301;----;Kap Morris Jesup;;Greenland;6;83-39N;033-22W;;;4;4;
+04;305;----;Cape Harald Moltke;;Greenland;6;82-09N;029-55W;;;4;;
+04;310;----;Nord;;Greenland;6;81-36N;016-39W;81-36N;016-40W;36;39;
+04;312;----;Nord Aws;;Greenland;6;81-36N;016-39W;;;34;34;
+04;313;----;Henrik Kroeyer Holme;;Greenland;6;80-39N;013-43W;;;10;10;
+04;320;BGDH;Danmarkshavn;;Greenland;6;76-46N;018-40W;76-46N;018-40W;11;12;P
+04;330;BGDB;Daneborg;;Greenland;6;74-18N;020-13W;;;44;44;
+04;339;BGSC;Scoresbysund;;Greenland;6;70-29N;021-57W;70-29N;021-58W;65;69;
+04;340;BGKT;Cape Tobin Automated Reporting Station ;;Greenland;6;70-25N;021-58W;70-25N;021-58W;41;41;
+04;341;BGCO;Constable Pynt;;Greenland;6;70-45N;022-39W;;;14;10;
+04;351;BGAT;Aputiteeq;;Greenland;6;67-47N;032-18W;;;13;12;
+04;360;BGAM;Tasiilaq;;Greenland;6;65-36N;037-38W;65-36N;037-38W;50;52;P
+04;361;BGKK;Kulusuk Lufthavn;;Greenland;6;65-35N;037-09W;;;35;37;
+04;373;----;Ikermit;;Greenland;6;64-47N;040-18W;;;85;85;
+04;382;----;Ikermiuarsuk;;Greenland;6;61-56N;042-04W;;;39;39;
+04;390;BGPC;Prins Christian Sund;;Greenland;6;60-03N;043-10W;;;88;75;
+06;009;----;Akraberg;;Denmark;6;61-24N;006-40W;;;99;102;
+06;010;EKVG;Soervaag / Vagar;;Denmark;6;62-04N;007-17W;;;85;92;
+06;011;----;Thorshavn;;Denmark;6;62-01N;006-46W;62-01N;006-46W;54;55;P
+06;022;----;Tyra Oest;;Denmark;6;55-43N;004-48E;;;75;75;
+06;024;EKTS;Thisted Lufthavn;;Denmark;6;57-04N;008-43E;;;7;7;
+06;030;EKYT;Aalborg;;Denmark;6;57-06N;009-51E;57-06N;009-52E;3;13;P
+06;034;EKSN;Sindal Flyveplads;;Denmark;6;57-30N;010-13E;;;28;28;
+06;041;----;Skagen;;Denmark;6;57-44N;010-38E;;;3;10;P
+06;043;----;Frederikshavn;;Denmark;6;57-24N;010-31E;;;83;80;
+06;048;EKHS;Hadsund;;Denmark;6;56-43N;010-07E;;;2;2;
+06;052;----;Thyboroen;;Denmark;6;56-42N;008-13E;;;2;9;P
+06;053;----;Aggersund;;Denmark;6;57-00N;009-18E;;;6;;
+06;054;EKHO;Lindtorp Airport;;Denmark;6;56-24N;008-27E;;;15;;
+06;058;----;Hvide Sande;;Denmark;6;56-00N;008-08E;;;3;5;P
+06;060;EKKA;Karup;;Denmark;6;56-18N;009-07E;;;52;53;P
+06;062;EKSV;Skive Lufthavn;;Denmark;6;56-33N;009-10E;;;23;21;
+06;066;EKVJ;Stauning Lufthavn;;Denmark;6;56-00N;008-21E;;;5;5;
+06;069;----;Foulum;;Denmark;6;56-30N;009-35E;;;54;58;
+06;070;EKAH;Tirstrup;;Denmark;6;56-18N;010-37E;;;23;25;P
+06;071;----;Fornaes;;Denmark;6;56-27N;010-58E;;;8;10;P
+06;078;EKAT;Anholt Island Automated Reporting Station ;;Denmark;6;56-42N;011-33E;;;8;;
+06;079;----;Anholt;;Denmark;6;56-43N;011-31E;;;2;3;
+06;080;EKEB;Esbjerg;;Denmark;6;55-32N;008-34E;;;30;29;
+06;081;----;Blaavand;;Denmark;6;55-33N;008-05E;;;22;18;
+06;096;----;Roemoe;;Denmark;6;55-11N;008-34E;;;4;11;
+06;099;----;Roemoe Havneby;;Denmark;6;55-05N;008-34E;;;5;;
+06;100;EKVA;Vandel;;Denmark;6;55-42N;009-12E;;;73;76;
+06;104;EKBI;Billund Lufthavn;;Denmark;6;55-44N;009-10E;;;75;79;P
+06;108;EKVD;Vamdrup;;Denmark;6;55-26N;009-20E;;;44;45;
+06;110;EKSP;Skrydstrup;;Denmark;6;55-14N;009-16E;;;43;47;P
+06;111;----;Baagoe;;Denmark;6;55-18N;009-48E;;;2;;
+06;113;----;Toftlund;;Denmark;6;55-11N;009-04E;;;48;;
+06;118;EKSB;Soenderborg Lufthavn;;Denmark;6;54-58N;009-47E;;;7;14;
+06;119;----;Kegnaes;;Denmark;6;54-51N;009-59E;;;16;17;P
+06;120;EKOD;Odense / Beldringe;;Denmark;6;55-29N;010-20E;;;17;17;P
+06;124;EKST;Sydfyns Flyveplads;;Denmark;6;55-01N;010-34E;;;6;;
+06;131;----;Vesborg;;Denmark;6;55-46N;010-33E;;;5;;
+06;142;----;Albuen;;Denmark;6;54-50N;010-58E;;;2;4;
+06;143;EKMB;Maribo Lufthavn;;Denmark;6;54-42N;011-27E;;;5;5;
+06;149;----;Gedser Odde;;Denmark;6;54-34N;011-58E;;;8;8;
+06;150;EKAV;Avno Danish Air Force Base ;;Denmark;6;55-05N;011-47E;;;4;;
+06;151;----;Omoe;;Denmark;6;55-10N;011-08E;;;1;3;
+06;153;----;Tyvelse;;Denmark;6;55-23N;011-43E;;;35;38;
+06;156;----;Holbaek;;Denmark;6;55-43N;011-43E;;;15;;
+06;159;----;Roesnaes;;Denmark;6;55-45N;010-52E;;;12;14;
+06;160;EKVL;Vaerloese;;Denmark;6;55-46N;012-20E;;;18;31;
+06;165;----;Hesseloe;;Denmark;6;56-12N;011-43E;;;8;12;
+06;168;----;Nakkehoved;;Denmark;6;56-07N;012-21E;;;37;40;
+06;169;----;Gniben;;Denmark;6;56-01N;011-17E;;;13;12;
+06;170;EKRK;Koebenhavn / Roskilde;;Denmark;6;55-35N;012-08E;;;44;44;
+06;173;----;Stevns;;Denmark;6;55-17N;031-24E;55-17N;012-27E;40;40;
+06;179;----;Moen;;Denmark;6;54-57N;012-33E;;;14;16;
+06;180;EKCH;Koebenhavn / Kastrup;;Denmark;6;55-37N;012-39E;55-38N;012-40E;5;5;P
+06;181;----;Koebenhavn / Jaegersborg;;Denmark;6;55-46N;012-32E;55-46N;012-32E;40;42;
+06;183;----;Drogden;;Denmark;6;55-32N;012-43E;;;0;;
+06;186;----;Koebenhavn / Landbohoejskolen;;Denmark;6;55-41N;012-32E;;;9;;
+06;190;EKRN;Roenne;;Denmark;6;55-04N;014-45E;;;16;16;
+06;191;----;Christiansoe;;Denmark;6;55-19N;015-11E;;;13;17;
+06;193;----;Hammer Odde;;Denmark;6;55-18N;014-47E;;;11;11;
+06;210;EHVB;Valkenburg;;Netherlands;6;52-11N;004-25E;52-11N;004-25E;0;2;
+06;225;----;Ijmuiden;;Netherlands;6;52-28N;004-35E;;;12;19;
+06;229;----;Texelhors Wp;;Netherlands;6;53-00N;004-43E;;;0;;
+06;235;EHKD;De Kooy;;Netherlands;6;52-55N;004-47E;;;0;14;P
+06;239;----;F3;;Netherlands;6;54-51N;004-44E;;;0;49;
+06;240;EHAM;Amsterdam Airport Schiphol;;Netherlands;6;52-18N;004-46E;;;-4;-2;P
+06;241;----;Amsterdam Coenhaven Aws;;Netherlands;6;52-25N;004-52E;;;;0;
+06;242;EHVL;Vlieland;;Netherlands;6;53-15N;004-55E;53-15N;004-55E;11;12;
+06;244;----;Hoorn Aws;;Netherlands;6;52-39N;005-03E;;;-1;;
+06;247;----;Bloemendaal;;Netherlands;6;52-25N;004-33E;;;18;0;
+06;248;----;Wudenes;;Netherlands;6;52-38N;005-10E;;;1;0;
+06;250;----;Terschelling;;Netherlands;6;53-22N;005-13E;;;26;15;
+06;251;----;Terschelling Hoorn;;Netherlands;6;53-23N;005-21E;;;1;2;
+06;252;----;K13-A;;Netherlands;6;53-13N;003-13E;;;30;30;
+06;253;----;Auk-Alfa;;Netherlands;6;56-24N;002-04E;;;34;34;
+06;254;----;Meetpost Noordwuk;;Netherlands;6;52-16N;004-18E;;;17;17;
+06;255;----;Noordeluke Zeeraaf;;Netherlands;6;61-14N;001-09E;;;47;47;
+06;260;EHDB;De Bilt;;Netherlands;6;52-06N;005-11E;52-06N;005-11E;2;15;P
+06;265;EHSB;Soesterberg;;Netherlands;6;52-08N;005-17E;;;20;25;
+06;267;----;Stavoren Aws;;Netherlands;6;52-53N;005-21E;;;3;;
+06;268;----;Houtrib;;Netherlands;6;52-32N;005-26E;;;2;16;
+06;269;EHLE;Lelystad;;Netherlands;6;52-27N;005-31E;;;0;;
+06;270;EHLW;Leeuwarden;;Netherlands;6;53-13N;005-46E;;;1;11;P
+06;273;----;Marknesse Aws;;Netherlands;6;52-42N;005-53E;;;-3;;
+06;275;EHDL;Deelen;;Netherlands;6;52-04N;005-53E;;;48;52;
+06;277;----;Lauwersoog Aws;;Netherlands;6;53-25N;006-12E;;;0;;
+06;278;----;Heino Aws;;Netherlands;6;52-26N;006-16E;;;5;;
+06;279;----;Hoogeveen Aws;;Netherlands;6;52-44N;006-31E;;;12;14;
+06;280;EHGG;Groningen Airport Eelde;;Netherlands;6;53-08N;006-35E;;;4;4;
+06;283;----;Hupsel Aws;;Netherlands;6;52-04N;006-39E;;;29;;
+06;285;----;Huibertgat Wp;;Netherlands;6;53-34N;006-24E;;;0;;
+06;286;----;Nieuw Beerta Aws;;Netherlands;6;53-12N;007-09E;;;0;;
+06;290;EHTW;Twenthe;;Netherlands;6;52-16N;006-54E;52-16N;006-54E;35;57;P
+06;308;----;Cadzand Wp;;Netherlands;6;51-23N;003-23E;;;7;;
+06;310;----;Vlissingen;;Netherlands;6;51-27N;003-36E;;;8;10;P
+06;312;----;Oosterschelde Wp;;Netherlands;6;51-41N;003-36E;;;0;;
+06;316;----;Schaar Wp;;Netherlands;6;51-39N;003-42E;;;0;;
+06;319;----;Westdorpe Aws;;Netherlands;6;51-32N;003-54E;;;2;;
+06;320;----;Le Goeree;;Netherlands;6;51-56N;003-40E;;;19;19;
+06;321;----;Euro Platform;;Netherlands;6;52-00N;003-17E;;;18;18;
+06;323;----;Wilhelminadorp Aws;;Netherlands;6;51-32N;003-54E;;;1;;
+06;330;----;Hoek Van Holland;;Netherlands;6;51-59N;004-06E;;;7;13;
+06;331;----;Tholen Wp;;Netherlands;6;51-31N;004-08E;;;0;;
+06;340;EHWO;Woensdrecht;;Netherlands;6;51-27N;004-20E;51-27N;004-20E;20;17;
+06;343;----;Rotterdam Geulhaven Aws;;Netherlands;6;51-53N;004-19E;;;4;;
+06;344;EHRD;Rotterdam Airport Zestienhoven;;Netherlands;6;51-57N;004-27E;;;-5;-4;
+06;348;----;Cabauw Tower;;Netherlands;6;51-58N;004-56E;;;0;2;
+06;350;EHGR;Gilze-Rijen;;Netherlands;6;51-34N;004-56E;;;15;24;
+06;356;----;Herwijnen Aws;;Netherlands;6;51-52N;005-09E;;;1;;
+06;370;EHEH;Eindhoven;;Netherlands;6;51-27N;005-25E;;;23;28;
+06;375;EHVK;Volkel;;Netherlands;6;51-39N;005-42E;;;22;21;P
+06;379;----;Oost Maarland Aws;;Netherlands;6;50-48N;005-43E;;;49;;
+06;380;EHBK;Maastricht Airport Zuid Limburg;;Netherlands;6;50-55N;005-47E;;;114;116;
+06;391;----;Arcen Aws;;Netherlands;6;51-30N;006-12E;;;19;;
+06;400;EBFN;Koksijde;;Belgium;6;51-05N;002-39E;;;4;9;P
+06;407;EBOS;Oostende Airport ;;Belgium;6;51-12N;002-52E;;;4;5;P
+06;408;----;Oostende Pier ;;Belgium;6;51-14N;002-55E;;;12;15;P
+06;428;EBMT;Munte;;Belgium;6;50-56N;003-44E;;;55;60;P
+06;431;EBGT;Gent / Industrie-Zone;;Belgium;6;51-11N;003-49E;;;10;13;P
+06;432;EBCV;Chievres;;Belgium;6;50-34N;003-50E;;;60;63;P
+06;447;----;Uccle;;Belgium;6;50-48N;004-21E;50-48N;004-21E;100;104;P
+06;448;EBMB;Melsbroek Bel-Afb ;;Belgium;6;50-54N;004-30E;;;55;;
+06;449;EBCI;Charleroi / Gosselies;;Belgium;6;50-28N;004-27E;;;187;192;P
+06;450;EBAW;Antwerpen / Deurne;;Belgium;6;51-12N;004-28E;;;12;14;P
+06;451;EBBR;Bruxelles National;;Belgium;6;50-54N;004-32E;50-54N;004-28E;55;58;P
+06;452;EBBT;Brasschaat;;Belgium;6;51-20N;004-30E;;;22;23;P
+06;456;EBFS;Florennes;;Belgium;6;50-14N;004-39E;;;279;299;P
+06;458;EBBE;Beauvechain;;Belgium;6;50-45N;004-46E;;;105;127;P
+06;462;EBWE;Weelde Military ;;Belgium;6;51-25N;005-00E;;;60;;
+06;463;EBTN;Goetsenhoven;;Belgium;6;50-47N;004-57E;;;71;81;P
+06;465;EBDT;Schaffen;;Belgium;6;51-00N;005-04E;;;30;54;
+06;467;EBBX;Bertrix Bel-Afb ;;Belgium;6;49-54N;005-13E;;;461;;
+06;470;EBST;Sint-Truiden;;Belgium;6;50-48N;005-12E;;;74;75;P
+06;473;----;Sinsin;;Belgium;6;50-16N;005-15E;;;243;244;
+06;476;EBSU;St-Hubert;;Belgium;6;50-02N;005-24E;50-02N;005-24E;563;557;P
+06;478;EBLG;Bierset;;Belgium;6;50-39N;005-27E;;;186;178;P
+06;479;EBBL;Kleine Brogel;;Belgium;6;51-10N;005-28E;51-10N;005-28E;55;64;P
+06;480;----;Meix-Devant-Virton;;Belgium;6;49-36N;005-29E;;;250;252;
+06;481;EBZW;Genk;;Belgium;6;50-56N;005-30E;;;61;63;P
+06;490;EBSP;Spa / La Sauveniere;;Belgium;6;50-29N;005-55E;;;470;482;P
+06;496;EBLB;Elsenborn;;Belgium;6;50-28N;006-11E;50-28N;006-11E;564;570;P
+06;585;----;Clervaux;;Luxembourg;6;50-03N;006-01E;;;;454;
+06;589;----;Luxembourg Beggen ;;Luxembourg;6;49-39N;006-08E;;;;235;
+06;590;ELLX;Luxembourg / Luxembourg;;Luxembourg;6;49-37N;006-13E;49-37N;006-13E;376;379;P
+06;597;----;Echternach;;Luxembourg;6;49-48N;006-27E;;;;244;
+06;604;LSGN;Neuchatel;;Switzerland;6;47-00N;006-57E;;;485;487;
+06;610;LSMP;Payerne;;Switzerland;6;46-49N;006-57E;46-49N;006-57E;490;491;P
+06;612;----;La Chaux-De-Fonds;;Switzerland;6;47-05N;006-48E;;;1018;1019;
+06;616;----;Fahy;;Switzerland;6;47-26N;006-57E;;;596;597;
+06;628;----;Plaffeien-Oberschrot;;Switzerland;6;46-45N;007-16E;;;1042;1041;
+06;630;----;Bern-Belp;;Switzerland;6;46-55N;007-30E;;;510;505;
+06;632;LSZG;Grenchen;;Switzerland;6;47-10-53N;007-24-59E;;;430;;
+06;639;----;Napf;;Switzerland;6;47-00N;007-56E;;;1407;1406;
+06;642;----;Langenbruck;;Switzerland;6;47-21N;007-46E;;;735;;
+06;643;----;Wynau;;Switzerland;6;47-15N;007-47E;;;422;416;
+06;649;----;Laufenburg;;Switzerland;6;47-33N;008-03E;;;322;;
+06;652;----;Mettlen;;Switzerland;6;47-07N;008-20E;;;417;;
+06;653;----;Beromuenster;;Switzerland;6;47-12N;008-10E;;;693;;
+06;654;----;Brugg-Wildegg;;Switzerland;6;47-28N;008-10E;;;350;;
+06;657;----;Giswil;;Switzerland;6;46-49N;008-10E;;;489;;
+06;658;----;Buochs;;Switzerland;6;46-59N;008-23E;;;442;;
+06;660;----;Zurich Town / Ville.;;Switzerland;6;47-23N;008-34E;;;556;569;
+06;661;----;Albis;;Switzerland;6;47-17N;008-31E;;;923;;
+06;662;----;Trasadingen;;Switzerland;6;47-40N;008-26E;;;402;;
+06;669;----;Laegern;;Switzerland;6;47-29N;008-24E;;;868;;
+06;670;LSZH;Zurich-Kloten;;Switzerland;6;47-29N;008-32E;;;436;432;P
+06;672;----;Altdorf;;Switzerland;6;46-52N;008-38E;;;449;451;
+06;680;----;Saentis;;Switzerland;6;47-15N;009-21E;;;2490;2500;
+06;681;----;Saint Gallen;;Switzerland;6;47-26N;009-24E;;;779;791;
+06;684;----;Weesen;;Switzerland;6;47-08N;009-06E;;;423;;
+06;689;----;Hoernli;;Switzerland;6;47-22N;008-57E;;;1144;;
+06;690;----;Altenrhein-Flugplatz;;Switzerland;6;47-29N;009-23E;;;398;;
+06;691;LSZR;Saint Gallen-Altenrhein;;Switzerland;6;47-29-06N;009-33-43E;;;398;;
+06;700;LSGG;Geneve-Cointrin;;Switzerland;6;46-15N;006-08E;;;420;416;P
+06;702;----;La Dole;;Switzerland;6;46-26N;006-06E;;;1670;1675;
+06;703;----;La Cure;;Switzerland;6;46-28N;006-05E;;;1170;;
+06;710;LSGL;Lausanne;;Switzerland;6;46-33N;006-37E;;;616;615;
+06;712;----;Aigle;;Switzerland;6;46-20N;006-55E;;;381;383;
+06;718;----;Savatan;;Switzerland;6;46-12N;007-01E;;;665;;
+06;719;----;Le Grand Saint-Bernard Douane;;Switzerland;6;45-52N;007-10E;;;2460;;
+06;720;LSGS;Sion;;Switzerland;6;46-13N;007-20E;;;482;481;P
+06;721;----;Fionnay;;Switzerland;6;46-02N;007-19E;;;1500;;
+06;724;----;Montana;;Switzerland;6;46-19N;007-29E;;;1508;1508;
+06;726;----;Gemmi;;Switzerland;6;46-24N;007-37E;;;2342;;
+06;730;----;Jungfraujoch;;Switzerland;6;46-33N;007-59E;;;3580;3576;
+06;731;----;Wimmis;;Switzerland;6;46-46N;007-39E;;;630;;
+06;734;----;Interlaken;;Switzerland;6;46-40N;007-52E;;;580;579;
+06;742;----;Simplon;;Switzerland;6;46-15N;008-02E;;;2008;;
+06;743;----;Ernen;;Switzerland;6;46-24N;008-08E;;;1000;;
+06;750;----;Guetsch;;Switzerland;6;46-39N;008-37E;46-39N;008-37E;2287;2284;P
+06;753;----;Piotta;;Switzerland;6;46-31N;008-41E;;;1007;1016;
+06;756;----;Comprovasco;;Switzerland;6;46-28N;008-56E;;;575;552;
+06;759;----;Cimetta;;Switzerland;6;46-12N;008-48E;;;1672;1648;
+06;760;----;Locarno-Monti;;Switzerland;6;46-10N;008-47E;;;366;380;
+06;762;----;Locarno-Magadino;;Switzerland;6;46-10N;008-53E;;;197;198;P
+06;770;LSZA;Lugano;;Switzerland;6;46-00N;008-58E;;;273;276;
+06;771;----;Stabio;;Switzerland;6;45-51N;008-56E;;;353;356;
+06;775;----;Lugano-Agno;;Switzerland;6;46-00N;008-54E;;;279;;
+06;781;----;Tavanasa;;Switzerland;6;46-45N;009-03E;;;800;;
+06;782;----;Disentis;;Switzerland;6;46-42N;008-51E;;;1190;1180;
+06;783;----;San Bernardino;;Switzerland;6;46-28N;009-11E;;;1639;1638;
+06;786;----;Chur-Ems;;Switzerland;6;46-52N;009-32E;;;555;556;
+06;789;----;Loebbia;;Switzerland;6;46-23N;009-40E;;;1420;1421;
+06;790;----;St. Moritz;;Switzerland;6;46-30N;009-51E;;;1850;;
+06;791;----;Corvatsch;;Switzerland;6;46-25N;009-49E;;;3315;3299;
+06;792;----;Samedam-Flugplatz;;Switzerland;6;46-32N;009-53E;;;1705;1706;
+06;794;----;Robbia;;Switzerland;6;46-21N;010-04E;;;1078;1078;
+06;990;----;Vaduz;;Liechtenstein;6;47-08N;009-31E;;;460;463;P
+07;002;----;Boulogne;;France;6;50-44N;001-36E;50-44N;001-36E;70;74;P
+07;003;LFAT;Le Touquet;;France;6;50-31N;001-37E;;;10;14;P
+07;005;LFOI;Abbeville;;France;6;50-08N;001-50E;50-08N;001-50E;74;77;P
+07;010;----;Dunkerque;;France;6;51-03N;002-20E;51-03N;002-20E;6;23;P
+07;015;LFQQ;Lille;;France;6;50-34N;003-06E;50-34N;003-06E;48;52;P
+07;017;LFQI;Cambrai;;France;6;50-13N;003-09E;;;78;77;P
+07;019;----;Barfleur Point ;;France;6;49-42N;001-16W;;;7;;
+07;020;----;La Hague;;France;6;49-43N;001-56W;;;3;9;P
+07;022;----;Vigite Du Haumet;;France;6;49-39N;001-30W;;;130;;
+07;024;LFRC;Cherbourg / Maupertus;;France;6;49-39N;001-28W;49-39N;001-28W;138;139;
+07;027;LFRK;Caen;;France;6;49-11N;000-27W;;;78;67;P
+07;028;LFOH;La Heve;;France;6;49-31N;000-04E;;;100;103;P
+07;029;----;Port En Bessin;;France;6;49-21N;000-46W;;;63;73;P
+07;031;----;Deauville;;France;6;49-22N;000-10E;;;146;147;
+07;033;LFOS;Vittefleur / St. Vale;;France;6;49-50N;000-39E;;;83;;
+07;034;----;Carteret;;France;6;49-22N;001-48W;;;61;65;P
+07;037;LFOP;Rouen;;France;6;49-23N;001-11E;49-23N;001-11E;157;157;P
+07;038;LFOE;Evreux;;France;6;49-01N;001-13E;;;141;146;P
+07;039;----;Valognes;;France;6;49-31N;001-30W;;;61;;
+07;040;----;Dieppe;;France;6;49-56N;001-06E;;;33;34;P
+07;055;LFOB;Beauvais;;France;6;49-28N;002-07E;;;109;111;P
+07;057;LFPC;Creil Fafb ;;France;6;49-15N;002-31E;;;88;;
+07;061;LFOW;Saint-Quentin;;France;6;49-49N;003-12E;49-49N;003-12E;98;101;P
+07;070;LFSR;Reims;;France;6;49-18N;004-02E;49-18N;004-02E;95;99;P
+07;075;LFQV;Charleville;;France;6;49-47N;004-38E;;;149;150;P
+07;090;LFSF;Metz / Frescaty;;France;6;49-05N;006-08E;;;190;191;P
+07;093;LFJL;Metz-Nancy-Lorraine;;France;6;48-59N;006-15E;;;264;;
+07;100;----;Ouessant;;France;6;48-28N;005-08W;;;35;32;P
+07;103;----;Pointe Du Raz;;France;6;48-02N;004-44W;;;72;86;P
+07;106;LFRJ;Landivisiau;;France;6;48-31N;004-09W;;;106;115;P
+07;107;----;Brignogan;;France;6;48-41N;004-20W;;;20;22;P
+07;109;LFRL;Lanveoc Poulmic;;France;6;48-17N;004-26W;;;87;82;P
+07;110;LFRB;Brest;;France;6;48-27N;004-25W;48-27N;004-25W;99;103;P
+07;116;----;Ile De Batz;;France;6;48-45N;004-01W;;;27;37;P
+07;120;LFRT;Saint-Brieuc;;France;6;48-32N;002-51W;;;138;136;P
+07;121;----;Brehat;;France;6;48-51N;003-00W;;;25;36;P
+07;125;LFRD;Dinard;;France;6;48-35N;002-04W;;;65;60;
+07;127;----;Grouin De Cancale;;France;6;48-43N;001-51W;;;40;41;P
+07;130;LFRN;Rennes;;France;6;48-04N;001-44W;48-04N;001-44W;37;37;P
+07;133;----;Pointe Du Roc;;France;6;48-50N;001-37W;;;37;42;P
+07;134;----;Laval;;France;6;48-02N;000-44W;;;100;101;P
+07;139;LFOF;Alencon;;France;6;48-27N;000-07E;48-27N;000-07E;144;141;P
+07;140;LFOC;Chateaudun;;France;6;48-03N;001-23E;;;134;127;P
+07;143;LFOR;Chartres;;France;6;48-28N;001-31E;;;155;156;P
+07;145;----;Trappes;;France;6;48-46N;002-01E;48-46N;002-01E;168;168;P
+07;146;LFPN;Toussus Le Noble;;France;6;48-46N;001-06E;;;164;161;P
+07;147;LFPV;Villacoublay;;France;6;48-46N;002-12E;;;177;179;P
+07;148;----;Bretigny;;France;6;48-36N;002-20E;;;82;80;P
+07;149;LFPO;Paris-Orly;;France;6;48-44N;002-24E;48-44N;002-24E;89;96;P
+07;150;LFPB;Paris / Le Bourget;;France;6;48-58N;002-27E;;;66;65;P
+07;153;LFPM;Melun;;France;6;48-37N;002-41E;;;95;92;P
+07;156;----;Paris-Montsouris;;France;6;48-49N;002-20E;;;75;77;P
+07;157;LFPG;Paris-Aeroport Charles De Gaulle;;France;6;49-01N;002-32E;;;118;109;P
+07;168;LFQB;Troyes;;France;6;48-20N;004-01E;;;118;118;P
+07;169;LFSI;St-Dizier;;France;6;48-38N;004-54E;;;139;140;P
+07;172;----;Loxeville;;France;6;48-45N;005-24E;;;313;316;P
+07;173;----;Epinal;;France;6;48-12N;006-26E;;;317;317;
+07;179;LFSL;Toul / Rosieres;;France;6;48-47N;005-29E;;;285;298;P
+07;180;LFSN;Nancy / Essey;;France;6;48-41N;006-13E;48-41N;006-13E;225;217;P
+07;181;LFSO;Nancy / Ochey;;France;6;48-35N;005-58E;;;336;350;P
+07;182;----;Rechicourt;;France;6;48-43N;006-35E;;;285;;
+07;190;LFST;Strasbourg;;France;6;48-33N;007-38E;;;153;154;P
+07;197;LFSC;Colmar;;France;6;47-55N;007-24E;;;211;217;P
+07;200;----;Penmarch;;France;6;47-48N;004-22W;;;6;22;P
+07;201;LFRQ;Quimper;;France;6;47-58N;004-10W;;;92;94;P
+07;203;----;Beg Melen;;France;6;47-39N;003-30W;;;47;54;P
+07;205;LFRH;Lann Bihoue;;France;6;47-46N;003-27W;;;52;44;P
+07;207;----;Le Talut;;France;6;47-18N;003-13W;;;37;43;P
+07;210;----;Vannes;;France;6;47-38N;002-45W;;;11;11;
+07;217;LFRZ;St-Nazaire;;France;6;47-19N;002-10W;;;3;4;P
+07;222;LFRS;Nantes;;France;6;47-10N;001-36W;47-10N;001-36W;27;27;P
+07;230;LFRA;Angers;;France;6;47-30N;000-34W;;;57;58;P
+07;235;LFRM;Le Mans;;France;6;47-56N;000-12E;;;59;52;P
+07;240;LFOT;Tours;;France;6;47-27N;000-43E;47-27N;000-43E;108;112;P
+07;247;LFYR;Romorantin;;France;6;47-19N;001-41E;;;85;86;P
+07;249;LFOJ;Orleans;;France;6;47-59N;001-45E;47-59N;001-45E;126;125;P
+07;255;LFLD;Bourges;;France;6;47-04N;002-22E;47-04N;002-22E;161;166;P
+07;257;----;Avord;;France;6;47-03N;002-39E;;;175;179;P
+07;260;LFQG;Nevers;;France;6;47-00N;003-06E;;;180;181;P
+07;265;LFLA;Auxerre;;France;6;47-48N;003-33E;47-48N;003-33E;207;212;P
+07;270;----;Chateau-Chinon Automated Reporting Station ;;France;6;47-04N;003-56E;;;605;;
+07;276;LFQH;Chatillon-Sur-Seine;;France;6;47-51N;004-33E;;;264;;
+07;280;LFSD;Dijon;;France;6;47-16N;005-05E;47-16N;005-05E;222;227;P
+07;283;----;Langres;;France;6;47-50N;005-19E;;;464;462;P
+07;288;LFSA;Besancon;;France;6;47-15N;005-59E;;;307;309;P
+07;292;LFSX;Luxeuil;;France;6;47-47N;006-21E;;;278;273;P
+07;295;LFSQ;Belfort;;France;6;47-38N;006-52E;;;422;423;P
+07;299;LFSB;Bale-Mulhouse;;France;6;47-36N;007-31E;;;270;271;P
+07;300;----;St-Sauveur;;France;6;46-42N;002-20W;;;32;48;P
+07;306;LFRI;La Roche-Sur-Yon;;France;6;46-42N;001-23W;;;90;91;P
+07;314;----;Chassiron;;France;6;46-02N;001-25W;;;11;22;P
+07;315;LFBH;La Rochelle;;France;6;46-09N;001-09W;;;4;10;P
+07;330;LFBN;Niort;;France;6;46-19N;000-24W;;;61;61;P
+07;335;LFBI;Poitiers;;France;6;46-35N;000-19E;46-35N;000-19E;129;120;P
+07;354;LFLX;Chateauroux;;France;6;46-51N;001-43E;;;160;157;P
+07;374;LFLV;Vichy;;France;6;46-10N;003-24E;;;249;251;P
+07;379;LFLN;Saint-Yan;;France;6;46-25N;004-01E;;;242;244;P
+07;382;----;Mont Saint Vincent;;France;6;46-39N;004-26E;46-39N;004-26E;603;602;
+07;385;LFLM;Macon;;France;6;46-18N;004-48E;46-18N;004-48E;221;217;P
+07;390;----;Lons-Le-Saunier;;France;6;46-41N;005-31E;;;280;280;
+07;394;----;Morbier;;France;6;46-34N;006-02E;;;928;928;
+07;400;----;La Coubre;;France;6;45-42N;001-14W;;;6;7;P
+07;412;LFBG;Cognac;;France;6;45-40N;000-19W;45-40N;000-19W;30;31;P
+07;428;LFBX;Perigueux;;France;6;45-12N;000-49E;;;100;97;
+07;434;LFBL;Limoges;;France;6;45-52N;001-11E;45-52N;001-11E;396;402;P
+07;438;LFBV;Brive;;France;6;45-09N;001-28E;;;111;117;P
+07;460;LFLC;Clermont-Ferrand;;France;6;45-47N;003-10E;45-47N;003-10E;332;330;P
+07;471;LFHP;Le Puy;;France;6;45-05N;003-46E;;;832;833;P
+07;475;LFMH;St-Etienne Boutheon;;France;6;45-32N;004-18E;;;404;402;P
+07;477;----;Les Sauvages Automated Reporting Station ;;France;6;45-56N;004-23E;;;730;;
+07;480;LFLY;Lyon / Bron;;France;6;45-43N;004-57E;45-43N;004-57E;200;201;P
+07;481;LFLL;Lyon / Satolas;;France;6;45-44N;005-05E;45-44N;005-05E;248;240;P
+07;482;LFXA;Amberieu;;France;6;45-59N;005-20E;;;250;257;P
+07;486;LFLS;Grenoble / St. Geoirs;;France;6;45-22N;005-20E;;;384;386;P
+07;491;LFLB;Chambery / Aix-Les-Bains;;France;6;45-39N;005-53E;;;235;239;P
+07;496;----;Modane Avrieux;;France;6;45-13N;006-43E;;;1102;1104;
+07;497;----;Bourg-St-Maurice;;France;6;45-37N;006-46E;;;865;868;P
+07;500;----;Cap Ferret;;France;6;44-38N;001-15W;;;9;10;P
+07;502;LFBC;Cazaux;;France;6;44-32N;001-08W;44-32N;001-08W;25;33;P
+07;503;LFBS;Biscarosse;;France;6;44-26N;001-15W;44-26N;001-15W;33;39;P
+07;510;LFBD;Bordeaux / Merignac;;France;6;44-50N;000-42W;44-50N;000-42W;49;61;P
+07;524;LFBA;Agen;;France;6;44-11N;000-36E;;;61;60;P
+07;530;LFBE;Bergerac;;France;6;44-49N;000-31E;;;51;52;P
+07;535;----;Gourdon;;France;6;44-45N;001-24E;44-45N;001-24E;259;264;P
+07;549;LFLW;Aurillac;;France;6;44-54N;002-25E;;;640;639;P
+07;552;LFCR;Rodez;;France;6;44-24N;002-29E;;;581;580;
+07;554;----;Mende;;France;6;44-32N;003-27E;;;932;934;
+07;555;LFIG;Cassagnes-Begonhes;;France;6;44-11N;002-31E;;;1020;;
+07;558;----;Millau;;France;6;44-07N;003-01E;44-07N;003-01E;715;720;P
+07;560;----;Mont Aigoual;;France;6;44-07N;003-35E;;;1567;1565;P
+07;577;LFLQ;Montelimar;;France;6;44-35N;004-44E;44-35N;004-44E;73;74;P
+07;579;LFMO;Orange;;France;6;44-08N;004-50E;;;60;55;P
+07;586;----;Carpentras;;France;6;44-05N;005-03E;;;99;105;P
+07;587;----;Lus-La-Croix-Haute;;France;6;44-41N;005-43E;;;1059;1061;P
+07;588;LFMX;St-Auban-Sur-Durance;;France;6;44-04N;006-00E;44-04N;006-00E;460;461;P
+07;591;----;Embrun;;France;6;44-34N;006-30E;44-34N;006-30E;871;876;P
+07;593;----;Briancon;;France;6;44-55N;006-39E;;;1328;1336;
+07;600;----;Socoa;;France;6;43-24N;001-41W;;;24;47;P
+07;602;LFBZ;Biarritz;;France;6;43-28N;001-32W;43-28N;001-32W;75;71;P
+07;603;LFBY;Dax;;France;6;43-41N;001-04W;43-41N;001-04W;32;32;P
+07;607;LFBM;Mont-De-Marsan;;France;6;43-55N;000-30W;43-55N;000-30W;62;63;P
+07;610;LFBP;Pau;;France;6;43-23N;000-25W;;;188;185;P
+07;621;LFBT;Tarbes Ossun Lourdes;;France;6;43-11N;000-00W;;;379;363;P
+07;622;LFDH;Auch;;France;6;43-41N;000-36E;;;125;128;P
+07;627;LFCG;St-Girons;;France;6;43-00N;001-06E;43-00N;001-06E;414;412;P
+07;630;LFBO;Toulouse / Blagnac;;France;6;43-38N;001-22E;43-38N;001-22E;152;153;P
+07;631;LFBF;Toulouse / Francazal;;France;6;43-32N;001-22E;;;164;166;P
+07;632;LFCI;Albi;;France;6;43-55N;002-07E;;;172;178;P
+07;635;LFMK;Carcassonne;;France;6;43-13N;002-19E;43-13N;002-19E;130;130;P
+07;641;----;Sete;;France;6;43-24N;003-41E;;;80;81;P
+07;643;LFMT;Montpellier;;France;6;43-35N;003-58E;;;5;6;P
+07;645;LFME;Nimes / Courbessac;;France;6;43-52N;004-24E;43-52N;004-24E;60;62;P
+07;646;LFTW;Nimes / Garons;;France;6;43-45N;004-25E;;;94;96;P
+07;647;LFMI;Istres;;France;6;43-31N;004-56E;;;23;24;P
+07;648;LFMY;Salon;;France;6;43-36N;005-06E;;;59;60;P
+07;649;LFMA;Aix Les Milles;;France;6;43-30N;005-22E;;;111;111;P
+07;650;LFML;Marseille / Marignane;;France;6;43-27N;005-14E;43-27N;005-13E;6;36;P
+07;652;----;Cap Pomegues;;France;6;43-16N;005-18E;;;70;73;P
+07;653;----;Cap Couronne;;France;6;43-20N;005-03E;;;27;35;P
+07;656;----;Bec De L'Aigle;;France;6;43-11N;005-35E;;;315;332;P
+07;660;----;Toulon;;France;6;43-06N;005-56E;43-06N;005-56E;24;27;P
+07;661;----;Cap Cepet;;France;6;43-05N;005-56E;;;126;136;P
+07;667;LFTH;Hyeres;;France;6;43-06N;006-09E;;;3;4;P
+07;670;----;Porquerolles;;France;6;43-00N;006-14E;;;143;147;P
+07;675;LFMC;Le Luc;;France;6;43-23N;006-23E;;;80;78;P
+07;677;----;Cap Camarat;;France;6;43-12N;006-41E;;;110;112;P
+07;678;----;Toulon / Ile Du Levant;;France;6;43-02N;006-28E;;;110;131;P
+07;680;LFTU;St-Raphael;;France;6;43-25N;006-45E;43-25N;006-45E;2;6;P
+07;684;LFMD;Cannes;;France;6;43-33N;006-57E;;;3;9;P
+07;688;----;La Garoupe;;France;6;43-34N;007-08E;;;74;82;P
+07;690;LFMN;Nice;;France;6;43-39N;007-12E;43-39N;007-12E;4;10;P
+07;695;----;Cap Ferrat;;France;6;43-41N;007-20E;;;138;144;P
+07;738;----;Les Escaldes;;France;6;42-29N;001-59E;;;1420;1432;
+07;740;----;Ste Leocadie;;France;6;42-27N;002-00E;;;1320;1328;
+07;747;LFMP;Perpignan;;France;6;42-44N;002-52E;42-44N;002-52E;43;48;P
+07;749;----;Cap Bear;;France;6;42-31N;003-08E;;;82;86;P
+07;752;----;La Parata;;France;6;41-55N;008-37E;;;40;;
+07;753;----;Ile Rousse;;France;6;42-38N;008-55E;;;120;129;P
+07;754;LFKC;Calvi;;France;6;42-32N;008-48E;;;64;58;P
+07;761;LFKJ;Ajaccio;;France;6;41-55N;008-48E;41-55N;008-48E;6;9;P
+07;765;LFKS;Solenzara;;France;6;41-55N;009-24E;41-55N;009-24E;8;22;P
+07;768;----;La Chiappa;;France;6;41-36N;009-22E;;;62;68;P
+07;770;----;Pertusato;;France;6;41-22N;009-11E;;;105;110;P
+07;780;LFKF;Figari;;France;6;41-30N;009-06E;;;26;23;P
+07;785;----;Cap Corse;;France;6;43-00N;009-22E;;;108;111;P
+07;790;LFKB;Bastia;;France;6;42-33N;009-29E;42-33N;009-29E;8;12;P
+07;791;----;Cap Sagro;;France;6;42-48N;009-29E;;;111;120;P
+08;001;----;La Coruna;;Spain;6;43-22N;008-25W;43-22N;008-25W;58;67;P
+08;002;LECO;La Coruna / Alvedro;;Spain;6;43-18N;008-23W;43-18N;008-23W;97;103;
+08;003;----;Montefaro;;Spain;6;43-27N;008-17W;;;240;244;
+08;005;----;El Ferrol;;Spain;6;43-29N;008-14W;;;6;9;
+08;008;----;Lugo / Rozas;;Spain;6;43-07N;007-27W;;;445;446;P
+08;011;LEAS;Asturias / Aviles;;Spain;6;43-33N;006-02W;;;127;130;
+08;014;----;Gijon;;Spain;6;43-32N;005-38W;;;3;10;
+08;015;----;Oviedo;;Spain;6;43-21N;005-52W;43-21N;005-52W;335;339;P
+08;021;LEXJ;Santander / Parayas;;Spain;6;43-26N;003-49W;;;6;9;
+08;023;----;Santander;;Spain;6;43-28N;003-49W;43-28N;003-49W;64;65;P
+08;025;LEBB;Bilbao / Sondica;;Spain;6;43-18N;002-56W;;;42;37;P
+08;027;----;San Sebastian / Igueldo;;Spain;6;43-18N;002-03W;;;258;259;P
+08;029;LESO;San Sebastian / Fuenterrabia;;Spain;6;43-21N;001-48W;;;5;8;
+08;042;LEST;Santiago / Labacolla;;Spain;6;42-54N;008-26W;;;370;367;P
+08;043;----;Marin;;Spain;6;42-24N;008-42W;;;3;14;
+08;044;----;Pontevedra;;Spain;6;42-26N;008-37W;;;108;108;
+08;045;LEVX;Vigo / Peinador;;Spain;6;42-13N;008-38W;;;264;255;P
+08;046;----;Vigo;;Spain;6;42-14N;008-45W;;;82;85;
+08;048;----;Orense;;Spain;6;42-20N;007-52W;;;128;147;
+08;053;----;Ponferrada;;Spain;6;42-32N;006-35W;;;550;555;
+08;055;LELN;Leon / Virgen Del Camino;;Spain;6;42-35N;005-39W;42-35N;005-39W;926;914;P
+08;075;LEBG;Burgos / Villafria;;Spain;6;42-22N;003-38W;;;894;891;P
+08;080;LEVT;Vitoria;;Spain;6;42-53N;002-43W;;;513;510;
+08;084;LELO;Logrono / Agoncillo;;Spain;6;42-27N;002-20W;42-27N;002-20W;353;363;P
+08;085;LEPP;Pamplona / Noain;;Spain;6;42-46N;001-38W;;;459;453;
+08;087;----;Bardenas Reales;;Spain;6;42-12N;001-27W;;;295;;
+08;094;----;Huesca / Monflorite;;Spain;6;42-05N;000-20W;;;542;554;
+08;112;----;Talar;;Spain;6;42-12N;000-52E;;;800;800;
+08;117;----;La Molina;;Spain;6;42-20N;001-56E;;;1704;1702;
+08;130;----;Zamora;;Spain;6;41-30N;005-45W;;;654;660;
+08;140;LEVD;Valladolid / Villanubla;;Spain;6;41-43N;004-51W;41-43N;004-51W;849;846;P
+08;141;----;Valladolid;;Spain;6;41-39N;004-46W;;;734;739;
+08;148;----;Soria;;Spain;6;41-46N;002-28W;;;1082;1083;
+08;157;----;Daroca;;Spain;6;41-07N;001-25W;;;779;779;
+08;160;LEZG;Zaragoza / Aeropuerto;;Spain;6;41-40N;001-01W;41-40N;001-01W;263;258;P
+08;171;----;Lerida;;Spain;6;41-37N;000-38E;;;203;199;
+08;175;LERS;Reus / Aeropuerto;;Spain;6;41-09N;001-10E;;;71;76;
+08;181;LEBL;Barcelona / Aeropuerto;;Spain;6;41-17N;002-04E;41-17N;002-04E;4;6;P
+08;184;LEGE;Gerona / Costa Brava;;Spain;6;41-54N;002-46E;;;143;129;
+08;202;LESA;Salamanca / Matacan;;Spain;6;40-57N;005-30W;40-57N;005-30W;793;795;P
+08;210;----;Avila;;Spain;6;40-39N;004-42W;;;1130;1131;
+08;213;----;Segovia;;Spain;6;40-57N;004-07W;;;1005;1006;
+08;215;----;Navacerrada;;Spain;6;40-47N;004-01W;;;1894;1888;
+08;219;LECV;Madri-Colmenar;;Spain;6;40-39N;003-44W;;;;;
+08;220;----;Madrid / C. Universitaria;;Spain;6;40-27N;003-43W;;;664;669;
+08;221;LEMD;Madrid / Barajas;;Spain;6;40-27N;003-33W;40-30N;003-35W;609;582;P
+08;222;----;Madrid;;Spain;6;40-25N;003-41W;40-25N;003-41W;655;655;
+08;223;LEVS;Madrid / Cuatro Vientos;;Spain;6;40-23N;003-47W;;;690;687;
+08;224;LEGT;Madrid / Getafe;;Spain;6;40-18N;003-43W;;;620;617;
+08;226;----;Guadalajara;;Spain;6;40-40N;003-10W;;;639;640;
+08;227;LETO;Madrid / Torrejon;;Spain;6;40-29N;003-27W;;;607;611;
+08;231;----;Cuenca;;Spain;6;40-04N;002-08W;;;955;956;
+08;232;----;Molina De Aragon;;Spain;6;40-51N;001-53W;;;1056;1063;
+08;233;LECH;Calamocha;;Spain;6;40-56N;001-18W;;;890;889;
+08;235;----;Teruel;;Spain;6;40-21N;001-07W;;;900;902;
+08;238;----;Tortosa;;Spain;6;40-49N;000-30E;40-49N;000-30E;44;50;P
+08;261;----;Caceres;;Spain;6;39-28N;006-20W;;;405;405;P
+08;272;----;Toledo;;Spain;6;39-53N;004-03W;;;515;516;
+08;280;LEAB;Albacete / Los Llanos;;Spain;6;38-57N;001-51W;38-57N;001-51W;702;704;P
+08;284;LEVC;Valencia / Aeropuerto;;Spain;6;39-30N;000-28W;39-30N;000-28W;69;62;P
+08;285;----;Valencia;;Spain;6;39-29N;000-23W;39-29N;000-23W;13;11;
+08;286;----;Castellon;;Spain;6;39-57N;000-04W;;;36;35;
+08;301;----;Palma De Mallorca;;Spain;6;39-33N;002-37E;39-33N;002-37E;3;6;
+08;306;LEPA;Palma De Mallorca / Son San Juan;;Spain;6;39-33N;002-44E;;;4;8;P
+08;314;LEMH;Menorca / Mahon;;Spain;6;39-52N;004-14E;39-52N;004-14E;87;82;P
+08;330;LEBZ;Badajoz / Talavera La Real;;Spain;6;38-53N;006-49W;38-53N;006-49W;185;192;P
+08;335;LEHI;Hinojosa Del Duque;;Spain;6;38-31N;005-07W;;;540;540;
+08;348;----;Ciudad Real;;Spain;6;38-59N;003-55W;;;628;629;P
+08;359;----;Alicante;;Spain;6;38-22N;000-30W;;;81;82;
+08;360;LEAL;Alicante / El Altet;;Spain;6;38-17N;000-33W;;;43;31;P
+08;373;LEIB;Ibiza / Es Codola;;Spain;6;38-52N;001-23E;;;7;12;P
+08;383;----;Huelva;;Spain;6;37-17N;006-55W;;;20;20;
+08;391;LEZL;Sevilla / San Pablo;;Spain;6;37-25N;005-54W;37-25N;005-54W;34;31;P
+08;397;LEMO;Moron De La Frontera;;Spain;6;37-09N;005-37W;;;87;88;
+08;410;LEBA;Cordoba / Aeropuerto;;Spain;6;37-51N;004-51W;;;90;92;P
+08;417;----;Jaen;;Spain;6;37-47N;003-48W;;;582;580;
+08;419;LEGR;Granada / Aeropuerto;;Spain;6;37-11N;003-47W;;;567;570;P
+08;429;LERI;Murcia / Alcantarilla;;Spain;6;37-57N;001-14W;;;75;75;
+08;430;----;Murcia;;Spain;6;38-00N;001-10W;37-59N;001-07W;61;62;
+08;431;----;Castillo Galeras;;Spain;6;37-35N;001-00W;;;219;217;
+08;433;LELC;Murcia / San Javier;;Spain;6;37-47N;000-48W;37-47N;000-48W;5;3;P
+08;449;LERT;Rota;;Spain;6;36-39N;006-21W;36-39N;006-21W;26;26;
+08;451;LEJR;Jerez De La Fronteraaeropuerto;;Spain;6;36-45N;006-04W;;;27;28;P
+08;458;----;Tarifa;;Spain;6;36-00N;005-36W;;;10;25;
+08;482;LEMG;Malaga / Aeropuerto;;Spain;6;36-40N;004-29W;36-40N;004-29W;16;7;P
+08;487;LEAM;Almeria / Aeropuerto;;Spain;6;36-51N;002-23W;36-51N;002-23W;15;21;P
+08;495;LXGB;Gibraltar;;Gibraltar;6;36-09N;005-21W;36-15N;005-33W;5;0;
+08;501;LPFL;Flores Acores ;;Portugal;6;39-27N;031-08W;;;28;29;P
+08;502;----;Corvo Acores ;;Portugal;6;39-40N;031-07W;;;18;26;
+08;505;LPHR;Horta / Castelo Branco Acores ;;Portugal;6;38-31N;028-43W;;;40;41;P
+08;506;----;Horta Acores ;;Portugal;6;38-31N;028-38W;;;60;62;
+08;508;----;Lajes / Santa Rita Acores ;;Portugal;6;38-44N;027-04W;38-44N;027-04W;112;113;P
+08;509;LPLA;Lajes Acores ;;Portugal;6;38-46N;027-06W;38-44N;027-05W;52;54;P
+08;511;----;Angra Do Heroismo Acores ;;Portugal;6;38-40N;027-13W;;;74;76;
+08;512;LPPD;Ponta Delgada / Nordela Acores ;;Portugal;6;37-44N;025-42W;;;71;72;P
+08;513;----;Ponta Delgada / Obs. Acores ;;Portugal;6;37-45N;025-40W;;;35;36;
+08;515;LPAZ;Santa Maria Acores ;;Portugal;6;36-58N;025-10W;;;100;100;P
+08;521;LPFU;Funchal / S. Catarina;;Portugal;1;32-41N;016-46W;32-41N;016-46W;58;49;P
+08;522;----;Funchal;;Portugal;1;32-38N;016-54W;32-38N;016-54W;58;56;
+08;524;LPPS;Porto Santo;;Portugal;1;33-04N;016-21W;;;97;82;P
+08;530;----;Cabo Carvoeiro;;Portugal;6;39-21N;009-24W;;;32;34;P
+08;532;----;Sintra / Granja;;Portugal;6;38-50N;009-20W;;;134;130;
+08;534;----;Montijo;;Portugal;6;38-42N;009-02W;;;14;11;
+08;535;----;Lisboa / Geof;;Portugal;6;38-43N;009-09W;;;77;95;
+08;536;LPPT;Lisboa / Portela;;Portugal;6;38-46N;009-08W;38-46N;009-08W;114;123;
+08;537;----;Alverca;;Portugal;6;38-53N;009-02W;;;3;3;
+08;538;----;Sagres;;Portugal;6;37-00N;008-57W;;;25;25;P
+08;539;----;Ota;;Portugal;6;39-07N;008-59W;;;41;49;
+08;540;----;Monte Real;;Portugal;6;39-50N;008-53W;;;52;54;
+08;541;----;Sines / Montes Chaos;;Portugal;6;37-57N;008-52W;;;98;103;P
+08;543;----;Viana Do Castelo;;Portugal;6;41-42N;008-48W;;;16;18;
+08;544;----;Ovar / Maceda;;Portugal;6;40-55N;008-38W;;;17;22;
+08;545;LPPR;Porto / Pedras Rubras;;Portugal;6;41-14N;008-41W;41-14N;008-41W;69;77;P
+08;546;----;Porto / Serra Do Pilar;;Portugal;6;41-08N;008-36W;;;93;100;
+08;548;----;Coimbra / Cernache;;Portugal;6;40-09N;008-28W;;;179;179;
+08;549;----;Coimbra;;Portugal;6;40-12N;008-25W;40-12N;008-25W;140;141;
+08;552;----;Tancos;;Portugal;6;39-29N;008-26W;;;83;80;
+08;554;LPFR;Faro / Aeroporto;;Portugal;6;37-01N;007-58W;37-01N;007-58W;7;8;P
+08;555;----;Faro / Cidade;;Portugal;6;37-01N;007-55W;;;27;8;
+08;557;----;Evora;;Portugal;6;38-34N;007-54W;;;309;321;
+08;558;----;Evora / C. Coord;;Portugal;6;38-32N;007-54W;;;245;246;P
+08;560;----;Viseu;;Portugal;6;40-43N;007-53W;;;644;644;
+08;561;----;Beja / B. Aerea;;Portugal;6;38-04N;007-55W;;;194;203;
+08;562;LPBJ;Beja;;Portugal;6;38-01N;007-52W;;;246;247;P
+08;567;LPVR;Vila Real;;Portugal;6;41-16N;007-43W;;;561;562;
+08;568;----;Penhas Douradas;;Portugal;6;40-25N;007-33W;;;1380;1388;
+08;570;----;Castelo Branco;;Portugal;6;39-50N;007-29W;;;386;384;P
+08;571;----;Portalegre;;Portugal;6;39-17N;007-25W;;;597;590;P
+08;575;LPBG;Braganca;;Portugal;6;41-48N;006-44W;;;691;692;P
+08;579;----;Lisboa / Gago Coutinho;;Portugal;6;38-46N;009-08W;38-46N;009-08W;104;105;P
+08;583;----;Mindelo;;Cape Verde;1;16-53N;025-00W;;;62;63;P
+08;589;----;Praia;;Cape Verde;1;14-54N;023-31W;14-54N;023-31W;27;35;P
+08;594;GVAC;Sal;;Cape Verde;1;16-44N;022-57W;16-44N;022-57W;54;55;P
+08;912;----;Isaba,'Refugio Belagua;;Spain;6;42-57N;000-50W;;;1434;;
+08;914;----;Candanchu,' Etuksa;;Spain;6;42-47N;000-32W;;;1560;;
+08;916;----;Astun,' Esqui 1730;;Spain;6;42-49N;000-30W;;;1730;;
+08;917;----;Sallent De Gallego,'Furco;;Spain;6;42-46N;000-23W;;;1780;;
+08;918;----;Sallent De Gallego,'Formigal;;Spain;6;42-47N;000-22W;;;1560;;
+08;920;----;Sallent De Gallego,'Respomuso;;Spain;6;42-49N;000-17W;;;2180;;
+08;922;----;Panticosa,' Refugio Casa Piedra;;Spain;6;42-46N;000-14W;;;1660;;
+08;926;----;Fanlo,' Refugio De Goriz;;Spain;6;42-40N;000-01E;;;2215;;
+08;928;----;Benasque,' Refugio De Estos;;Spain;6;42-41N;000-29E;;;1890;;
+08;930;----;Cerler,' Esqui;;Spain;6;42-35N;000-32E;;;1540;;
+08;932;----;Boi Tahull;;Spain;6;42-29N;000-52E;;;2020;;
+08;934;----;Baqueira;;Spain;6;42-42N;000-57E;;;1880;;
+08;936;----;Sort;;Spain;6;42-25N;001-08E;;;680;;
+08;938;----;Port Aine;;Spain;6;42-25N;001-13E;;;2080;;
+08;940;----;Tavescan;;Spain;6;42-38N;001-15E;;;1100;;
+08;942;----;Port Del Comte;;Spain;6;42-10N;001-34E;;;1800;;
+08;944;----;Masella;;Spain;6;42-20N;001-53E;;;1985;;
+08;946;----;Nuria;;Spain;6;42-24N;002-09E;;;1967;;
+08;948;----;Vallter 2000;;Spain;6;42-26N;002-16E;;;2180;;
+08;960;----;Valdelinares,' Esqui;;Spain;6;40-23N;000-38W;;;1975;;
+10;004;----;Ufs Tw Ems;;Germany;6;54-10N;006-21E;;;0;0;P
+10;005;----;Ufs Elbe;;Germany;6;54-00N;008-07E;;;0;0;
+10;007;----;Ufs Deutsche Bucht.;;Germany;6;54-11N;007-26E;;;0;0;
+10;015;----;Helgoland;;Germany;6;54-11N;007-54E;;;4;8;P
+10;018;EDXW;Westerland / Sylt;;Germany;6;54-55N;008-21E;;;16;20;
+10;020;----;List / Sylt;;Germany;6;55-01N;008-25E;;;26;29;P
+10;022;----;Leck;;Germany;6;54-48N;008-57E;;;7;17;
+10;026;----;Husum;;Germany;6;54-31N;009-09E;54-31N;009-09E;28;37;
+10;031;----;Flensburg-Schaeferhaus;;Germany;6;54-47N;009-23E;;;41;43;
+10;033;ETGG;Gluecksburg / Meierwik;;Germany;6;54-50N;009-30E;;;27;33;
+10;034;ETME;Eggebek;;Germany;6;54-38N;009-21E;;;20;22;
+10;035;----;Schleswig;;Germany;6;54-32N;009-33E;54-32N;009-33E;43;48;P
+10;037;ETNS;Schleswig-Jagel;;Germany;6;54-28N;009-31E;;;22;25;
+10;038;ETNH;Hohn;;Germany;6;54-19N;009-32E;;;12;17;
+10;042;----;Olpenitz;;Germany;6;54-40N;010-02E;;;4;10;
+10;044;----;Leuchtturm Kiel;;Germany;6;54-30N;010-17E;;;5;23;
+10;046;ETMK;Kiel-Holtenau;;Germany;6;54-23N;010-09E;54-23N;010-09E;31;31;
+10;048;----;Friedrichsort;;Germany;6;54-23N;010-11E;;;11;;
+10;055;----;Westermarkelsdorf;;Germany;6;54-32N;011-04E;;;3;9;
+10;067;----;Marienleuchte;;Germany;6;54-30N;011-14E;;;5;;
+10;091;----;Arkona;;Germany;6;54-41N;013-26E;;;42;42;P
+10;093;----;Putbus;;Germany;6;54-22N;013-29E;;;40;34;
+10;113;----;Norderney;;Germany;6;53-43N;007-09E;;;11;16;P
+10;120;----;Helgoland Island;;Germany;6;54-11N;007-53E;;;53;;
+10;121;----;Wangerooge;;Germany;6;53-47N;007-55E;;;2;;
+10;122;ETNJ;Jever;;Germany;6;53-32N;007-53E;;;7;21;
+10;123;----;Wangerooge;;Germany;6;53-48N;007-54E;;;14;29;
+10;124;----;Leuchtturm Alte Weser;;Germany;6;53-52N;008-08E;;;30;31;
+10;125;----;Wilhelmshaven-Mariensiel;;Germany;6;53-30N;008-03E;;;5;;
+10;126;ETNT;Wittmundhaven;;Germany;6;53-33N;007-40E;;;8;12;
+10;129;----;Bremerhaven;;Germany;6;53-32N;008-35E;;;7;11;P
+10;130;----;Elpersbuettel;;Germany;6;54-04N;009-01E;;;3;5;
+10;131;----;Cuxhaven;;Germany;6;53-52N;008-42E;;;5;12;P
+10;133;----;Saint Michaelisdonn;;Germany;6;53-59N;009-09E;;;38;41;
+10;136;ETMN;Nordholz;;Germany;6;53-46N;008-40E;;;23;31;
+10;139;----;Bremervoerde;;Germany;6;53-30N;009-10E;;;3;5;
+10;141;----;Hamburg-Sasel;;Germany;6;53-39N;010-07E;;;49;49;
+10;142;ETHI;Itzehoe;;Germany;6;54-00N;009-35E;;;25;26;
+10;146;----;Quickborn;;Germany;6;53-44N;009-53E;;;13;17;
+10;147;EDDH;Hamburg-Fuhlsbuettel;;Germany;6;53-38N;010-00E;;;16;15;P
+10;148;----;Hamburg-Stadt;;Germany;6;53-33N;009-58E;;;22;;
+10;149;EDHI;Hamburg-Finkenwerder;;Germany;6;53-32N;009-50E;;;5;13;
+10;152;----;Pelzerhaken;;Germany;6;54-05N;010-53E;;;1;2;
+10;156;EDHL;Luebeck-Blankensee;;Germany;6;53-49N;010-42E;;;14;15;
+10;161;----;Boltenhagen;;Germany;6;54-00N;011-12E;;;15;17;
+10;162;----;Schwerin;;Germany;6;53-39N;011-23E;;;59;68;P
+10;168;----;Goldberg;;Germany;6;53-36N;012-06E;;;58;58;
+10;169;----;Rostock;;Germany;6;54-11N;012-03E;;;4;;
+10;170;----;Rostock-Warnemuende;;Germany;6;54-11N;012-05E;;;4;10;P
+10;172;ETNL;Laage;;Germany;6;53-55N;012-17E;;;40;46;
+10;177;----;Teterow;;Germany;6;53-46N;012-37E;;;46;50;
+10;180;----;Barth;;Germany;6;54-20N;012-43E;;;7;7;
+10;184;----;Greifswald;;Germany;6;54-06N;013-24E;54-06N;013-24E;2;6;P
+10;192;----;Heringsdorf;;Germany;6;53-53N;014-09E;;;22;;
+10;193;----;Ueckermuende;;Germany;6;53-45N;014-04E;;;1;7;
+10;200;----;Emden-Koenigspolder;;Germany;6;53-21N;007-13E;53-21N;007-13E;5;5;
+10;203;----;Emden-Hafen;;Germany;6;53-21N;007-12E;;;5;12;
+10;215;----;Oldenburg;;Germany;6;53-11N;008-10E;;;11;20;
+10;222;----;Lemwerder;;Germany;6;53-09N;008-37E;;;6;30;
+10;224;EDDW;Bremen;;Germany;6;53-03N;008-48E;;;3;5;P
+10;235;----;Soltau;;Germany;6;53-00N;009-50E;;;77;78;
+10;238;ETGB;Bergen;;Germany;6;52-49N;009-56E;52-49N;009-56E;70;69;
+10;246;ETHS;Fassberg;;Germany;6;52-55N;010-11E;;;75;88;
+10;249;----;Boizenburg;;Germany;6;53-24N;010-41E;;;45;46;
+10;253;----;Luechow;;Germany;6;52-58N;011-08E;;;17;18;P
+10;261;----;Seehausen;;Germany;6;52-54N;011-44E;;;21;23;
+10;264;----;Marnitz;;Germany;6;53-19N;011-56E;;;81;85;
+10;267;----;Kyritz;;Germany;6;52-56N;012-25E;;;40;42;
+10;268;----;Waren;;Germany;6;53-31N;012-40E;;;70;71;
+10;270;----;Neuruppin;;Germany;6;52-54N;012-49E;;;38;39;P
+10;272;ETGW;Wittstock;;Germany;6;53-12N;012-31E;53-12N;012-31E;72;74;
+10;277;----;Neuglobsow;;Germany;6;53-09N;013-02E;;;62;62;
+10;280;----;Neubrandenburg;;Germany;6;53-33N;013-12E;;;81;80;P
+10;281;ETNU;Trollenhagen;;Germany;6;53-36N;013-19E;;;71;70;
+10;289;----;Gruenow;;Germany;6;53-19N;013-56E;;;55;57;
+10;291;----;Angermuende;;Germany;6;53-02N;014-00E;;;56;55;P
+10;304;----;Meppen;;Germany;6;52-43N;007-19E;52-43N;007-19E;21;41;
+10;305;----;Lingen;;Germany;6;52-31N;007-18E;;;24;26;P
+10;306;ETHE;Rheine-Bentlage;;Germany;6;52-18N;007-23E;;;40;49;
+10;308;ETUN;Nordhorn;;Germany;6;52-27N;007-10E;;;26;26;
+10;314;ETNP;Hopsten;;Germany;6;52-20N;007-32E;;;39;43;
+10;315;EDDG;Muenster / Osnabrueck;;Germany;6;52-08N;007-42E;;;48;53;P
+10;317;----;Osnabrueck;;Germany;6;52-15N;008-03E;;;95;97;
+10;320;ETUO;Guetersloh;;Germany;6;51-55N;008-18E;;;72;72;
+10;321;ETND;Diepholz;;Germany;6;52-35N;008-21E;;;39;43;
+10;325;----;Bad Salzuflen;;Germany;6;52-06N;008-45E;;;135;139;
+10;326;----;Bielefeld-Windelsbleiche;;Germany;6;51-58N;008-33E;;;138;139;
+10;334;ETNW;Wunstorf;;Germany;6;52-27N;009-26E;;;57;70;
+10;335;ETHB;Bueckeburg;;Germany;6;52-17N;009-05E;;;70;78;
+10;337;----;Hildesheim ;;Germany;6;52-11N;009-57E;52-11N;009-57E;88;88;
+10;338;EDDV;Hannover;;Germany;6;52-28N;009-41E;52-28N;009-42E;56;59;P
+10;343;ETHC;Celle;;Germany;6;52-36N;010-01E;;;39;52;
+10;346;----;Braunschweig-Waggum;;Germany;6;52-19N;010-33E;;;84;100;
+10;348;EDVE;Braunschweig;;Germany;6;52-18N;010-27E;;;81;88;P
+10;356;----;Ummendorf;;Germany;6;52-10N;011-11E;;;162;163;
+10;359;----;Gardelegen;;Germany;6;52-31N;011-24E;;;47;48;
+10;361;----;Magdeburg;;Germany;6;52-08N;011-36E;;;79;85;P
+10;365;----;Genthin;;Germany;6;52-23N;012-10E;;;35;39;
+10;368;----;Wiesenburg;;Germany;6;52-07N;012-28E;;;187;188;
+10;370;----;Brandenburg / Briest;;Germany;6;52-26N;012-27E;;;31;;
+10;376;----;Baruth;;Germany;6;52-03N;013-30E;;;56;57;
+10;378;----;Potsdam Sor ;;Germany;6;52-22N;013-05E;;;89;;
+10;379;----;Potsdam;;Germany;6;52-23N;013-04E;;;81;100;
+10;381;----;Berlin-Dahlem;;Germany;6;52-28N;013-18E;;;51;58;
+10;382;EDDT;Berlin-Tegel;;Germany;6;52-34N;013-19E;;;37;37;
+10;384;EDDI;Berlin-Tempelhof;;Germany;6;52-28N;013-24E;52-29N;013-25E;50;49;P
+10;385;EDDB;Berlin-Schoenefeld;;Germany;6;52-23N;013-31E;52-23N;013-31E;47;50;P
+10;389;----;Berlin-Alexanderplatz;;Germany;6;52-31N;013-25E;;;37;84;
+10;393;----;Lindenberg;;Germany;6;52-13N;014-07E;52-13N;014-07E;98;104;P
+10;395;----;Neuhardenberg / Wriez;;Germany;6;52-37N;014-14E;;;10;;
+10;396;----;Manschnow;;Germany;6;52-33N;014-33E;;;12;16;
+10;400;EDDL;Duesseldorf;;Germany;6;51-18N;006-46E;;;45;41;P
+10;401;ETUR;Brueggen;;Germany;6;51-12N;006-08E;;;73;76;
+10;403;----;Moenchengladbach;;Germany;6;51-14N;006-30E;;;37;;
+10;404;ETGY;Kalkar;;Germany;6;51-44N;006-16E;;;31;43;
+10;405;ETUL;Laarbruch;;Germany;6;51-36N;006-09E;;;32;31;
+10;406;----;Bocholt;;Germany;6;51-50N;006-32E;;;21;24;
+10;409;----;Essen / Muelheim;;Germany;6;51-24N;006-56E;;;129;;
+10;410;EDZE;Essen;;Germany;6;51-24N;006-58E;51-24N;006-58E;152;161;
+10;413;----;Marl / Loemuehle;;Germany;6;51-39N;007-10E;;;74;;
+10;416;EDLW;Dortmund / Wickede;;Germany;6;51-31N;007-37E;;;127;;
+10;418;----;Luedenscheid;;Germany;6;51-15N;007-39E;;;387;392;
+10;425;----;Arnsberg;;Germany;6;51-29N;007-54E;;;242;;
+10;426;EDLP;Paderborn / Lippstadt;;Germany;6;51-37N;008-37E;;;213;;
+10;427;----;Kahler Asten;;Germany;6;51-11N;008-29E;;;839;859;P
+10;430;----;Bad Lippspringe;;Germany;6;51-47N;008-50E;;;157;158;
+10;431;----;Eggegebirge;;Germany;6;51-50N;008-57E;;;450;;
+10;432;----;Koeterberg;;Germany;6;51-51N;009-19E;;;492;493;
+10;435;----;Warburg;;Germany;6;51-30N;009-11E;;;225;225;
+10;436;EDVK;Kassel / Calden;;Germany;6;51-24N;009-23E;;;277;283;
+10;437;----;Fritzlar-Kasseler Warte;;Germany;6;51-08N;009-17E;51-08N;009-17E;222;223;
+10;438;----;Kassel;;Germany;6;51-18N;009-27E;;;231;233;P
+10;439;ETHF;Fritzlar;;Germany;6;51-07N;009-17E;;;172;181;
+10;444;----;Goettingen;;Germany;6;51-30N;009-57E;51-33N;009-57E;167;171;
+10;449;----;Leinefelde;;Germany;6;51-24N;010-19E;;;356;356;
+10;452;----;Braunlage;;Germany;6;51-44N;010-36E;;;607;610;
+10;453;----;Brocken;;Germany;6;51-48N;010-37E;;;1142;1153;P
+10;454;----;Wernigerode;;Germany;6;51-51N;010-46E;51-51N;010-46E;234;240;
+10;458;----;Harzgerode;;Germany;6;51-39N;011-08E;;;404;405;
+10;460;----;Artern;;Germany;6;51-23N;011-18E;;;164;166;
+10;466;----;Halle-Kroellwitz;;Germany;6;51-31N;011-57E;;;96;96;
+10;469;EDDP;Leipzig-Schkeuditz;;Germany;6;51-25N;012-14E;;;144;149;P
+10;471;----;Leipzig;;Germany;6;51-19N;012-25E;;;146;148;
+10;474;----;Wittenberg;;Germany;6;51-53N;012-39E;;;105;106;P
+10;476;ETSH;Holzdorf;;Germany;6;51-46N;013-11E;;;79;83;
+10;480;----;Oschatz;;Germany;6;51-18N;013-06E;;;150;152;
+10;486;----;Dresden;;Germany;6;51-07N;013-41E;51-07N;013-41E;231;232;
+10;488;EDDC;Dresden-Klotzsche;;Germany;6;51-08N;013-45E;;;230;232;P
+10;490;----;Doberlug-Kirchhain;;Germany;6;51-39N;013-35E;;;97;100;P
+10;492;ETHT;Cottbus Flugplatz ;;Germany;6;51-46N;014-18E;;;67;68;
+10;493;ETNR;Preschen;;Germany;6;51-40N;014-38E;;;100;;
+10;496;----;Cottbus;;Germany;6;51-47N;014-19E;;;69;70;
+10;499;----;Goerlitz;;Germany;6;51-10N;014-57E;;;237;238;P
+10;500;ETNG;Geilenkirchen;;Germany;6;50-58N;006-03E;;;90;98;
+10;501;----;Aachen;;Germany;6;50-47N;006-06E;50-47N;006-06E;202;205;P
+10;502;ETNN;Noervenich;;Germany;6;50-50N;006-40E;;;118;135;
+10;503;ETBA;Aachen / Merzbruck;;Germany;6;50-49N;006-11E;50-49N;006-11E;191;190;
+10;504;----;Eifel;;Germany;6;50-39N;006-17E;;;572;;
+10;505;----;Bonn-Hangelar;;Germany;6;50-46N;007-10E;;;60;67;
+10;506;----;Nuerburg-Barweiler;;Germany;6;50-21N;006-52E;;;485;486;
+10;507;----;Dahlemer Binz;;Germany;6;50-24N;006-32E;;;578;581;
+10;510;----;Nuerburg;;Germany;6;50-20N;006-57E;;;629;;
+10;513;EDDK;Koeln / Bonn;;Germany;6;50-52N;007-10E;50-52N;007-08E;91;100;P
+10;514;ETHM;Mendig;;Germany;6;50-22N;007-19E;;;182;190;
+10;515;----;Bendorf;;Germany;6;50-25N;007-35E;;;127;129;
+10;517;----;Bonn-Friesdorf;;Germany;6;50-42N;007-09E;;;64;64;
+10;518;----;Bonn-Hardthoehe;;Germany;6;50-42N;007-02E;;;158;160;
+10;519;----;Bonn-Roleber;;Germany;6;50-44N;007-12E;;;159;168;
+10;521;----;Rothaargebirge;;Germany;6;50-56N;008-12E;;;635;;
+10;526;----;Bad Marienberg;;Germany;6;50-40N;007-58E;;;547;555;
+10;528;----;Siegerland;;Germany;6;50-43N;008-05E;;;599;617;
+10;532;----;Giessen;;Germany;6;50-35N;008-42E;50-34N;008-42E;186;195;P
+10;533;----;Giessen United States Army Heliport ;;Germany;6;50-36N;008-44E;50-36N;008-44E;152;152;
+10;535;----;Wahlen;;Germany;6;50-49N;009-08E;;;349;350;
+10;536;----;Fulda Usa \ Af ;;Germany;6;50-33N;009-39E;;;305;;
+10;542;----;Bad Hersfeld;;Germany;6;50-51N;009-44E;;;273;272;
+10;544;----;Wasserkuppe;;Germany;6;50-30N;009-57E;;;921;925;P
+10;546;----;Kaltennordheim;;Germany;6;50-38N;010-09E;;;487;494;
+10;548;----;Meiningen;;Germany;6;50-34N;010-23E;50-34N;010-22E;450;453;P
+10;551;----;Suhl;;Germany;6;50-37N;010-40E;;;505;;
+10;552;----;Schmuecke;;Germany;6;50-39N;010-46E;;;937;948;
+10;554;EDDE;Erfurt-Bindersleben;;Germany;6;50-59N;010-58E;;;315;322;P
+10;555;----;Weimar;;Germany;6;50-59N;011-19E;;;264;;
+10;557;----;Neuhaus A. R.;;Germany;6;50-30N;011-08E;;;845;851;
+10;558;----;Sonneberg-Neufang;;Germany;6;50-23N;011-11E;;;626;630;
+10;564;----;Schleiz;;Germany;6;50-34N;011-49E;;;501;502;
+10;565;----;Osterfeld;;Germany;6;51-05N;011-56E;;;262;263;
+10;567;----;Gera-Leumnitz;;Germany;6;50-53N;012-08E;;;311;311;
+10;569;----;Plauen;;Germany;6;50-29N;012-08E;;;386;389;
+10;574;----;Carlsfeld;;Germany;6;50-26N;012-37E;;;898;899;
+10;575;----;Aue;;Germany;6;50-36N;012-43E;;;391;397;
+10;577;----;Chemnitz;;Germany;6;50-48N;012-52E;;;418;420;P
+10;578;----;Fichtelberg;;Germany;6;50-26N;012-57E;;;1213;1215;P
+10;579;----;Marienberg;;Germany;6;50-39N;013-09E;;;639;640;
+10;582;----;Zinnwald-Georgenfeld;;Germany;6;50-44N;013-45E;;;877;882;
+10;591;----;Lichtenhain-Mittelndorf;;Germany;6;50-56N;014-13E;;;300;325;
+10;607;ETAD;Spangdahlem;;Germany;6;49-59N;006-42E;;;365;356;
+10;609;----;Trier-Petrisberg;;Germany;6;49-45N;006-40E;;;265;273;P
+10;613;ETSB;Buechel;;Germany;6;50-10N;007-04E;;;478;486;
+10;614;ETAR;Ramstein;;Germany;6;49-26N;007-36E;;;238;237;
+10;615;----;Deuselbach;;Germany;6;49-46N;007-03E;;;480;483;
+10;616;EDFH;Hahn;;Germany;6;49-57N;007-16E;;;491;498;
+10;617;----;Traben-Trarbach;;Germany;6;49-58N;007-07E;;;257;252;
+10;618;ETGI;Idar-Oberstein;;Germany;6;49-42N;007-20E;49-42N;007-20E;376;377;
+10;619;----;Baumholder United States Army Air Field ;;Germany;6;49-39N;007-18E;49-39N;007-18E;426;426;
+10;626;ETSP;Pferdsfeld;;Germany;6;49-51N;007-36E;;;396;403;
+10;627;ETEH;Bad Kreuznach;;Germany;6;49-51N;007-53E;;;103;105;
+10;628;----;Geisenheim;;Germany;6;49-59N;007-57E;;;118;120;
+10;633;ETOU;Wiesbaden;;Germany;6;50-03N;008-20E;;;140;;
+10;635;----;Kleiner Feldberg / Taunus;;Germany;6;50-13N;008-27E;;;805;802;
+10;637;EDDF;Frankfurt / M-Flughafen;;Germany;6;50-03N;008-36E;50-03N;008-35E;111;113;P
+10;638;----;Maurice Rose Usahp ;;Germany;6;50-11N;008-39E;;;104;;
+10;639;----;Langen;;Germany;6;50-01N;008-40E;50-01N;008-40E;125;135;
+10;640;----;Offenbach / M;;Germany;6;50-07N;008-44E;50-07N;008-44E;98;112;
+10;642;ETID;Hanau;;Germany;6;50-10N;008-58E;50-10N;008-57E;112;114;
+10;644;----;Aschaffenburg / Grossostheim;;Germany;6;49-56N;009-04E;;;125;;
+10;645;----;Breitsol;;Germany;6;49-54N;009-26E;;;585;581;
+10;648;----;Michelstadt-Vielbrunn;;Germany;6;49-43N;009-06E;;;453;455;
+10;653;ETEU;Giebelstadt;;Germany;6;49-39N;009-58E;49-39N;009-58E;298;298;
+10;655;----;Wuerzburg;;Germany;6;49-46N;009-58E;49-46N;009-58E;268;272;P
+10;657;----;Wertheim United States Army Heliport ;;Germany;6;49-45N;009-30E;49-46N;009-29E;338;338;
+10;658;----;Bad Kissingen;;Germany;6;50-12N;010-05E;;;262;266;
+10;669;ETIN;Kitzingen Usa \ Af ;;Germany;6;49-45N;010-12E;49-45N;010-12E;210;210;
+10;671;----;Coburg;;Germany;6;50-17N;010-59E;;;322;323;
+10;675;----;Bamberg;;Germany;6;49-55N;010-54E;49-53N;010-55E;239;240;
+10;677;EDQD;Bayreuth;;Germany;6;49-59N;011-38E;;;488;498;
+10;684;----;Hof;;Germany;6;50-17N;011-51E;;;585;588;
+10;685;EDQM;Hof;;Germany;6;50-19N;011-53E;;;567;568;P
+10;687;ETIC;Grafenwoehr;;Germany;6;49-42N;011-57E;49-06N;011-08E;415;415;
+10;688;----;Weiden;;Germany;6;49-40N;012-11E;;;438;439;P
+10;704;----;Berus;;Germany;6;49-17N;006-41E;;;363;367;
+10;706;----;Tholey;;Germany;6;49-29N;007-03E;;;396;398;
+10;708;EDDR;Saarbruecken / Ensheim;;Germany;6;49-13N;007-07E;49-13N;007-07E;322;320;P
+10;709;----;Saarbruecken;;Germany;6;49-15N;006-56E;;;213;;
+10;712;ETAS;Sembach United States Air Force Operated Base In Foreign Country ;;Germany;6;49-30N;007-52E;;;321;;
+10;714;----;Zweibrucken United States Air Force Operated Base In Foreign Country ;;Germany;6;49-13N;007-24E;;;345;;
+10;717;----;Pirmasens United States Army Heliport ;;Germany;6;49-13N;007-37E;;;415;;
+10;724;----;Weinbiet;;Germany;6;49-23N;008-07E;;;553;557;
+10;725;----;Baden-Oos;;Germany;6;48-48N;008-11E;;;126;;
+10;727;----;Karlsruhe;;Germany;6;49-02N;008-22E;;;112;145;
+10;728;ETOR;Coleman Mannheim ;;Germany;6;49-34N;008-28E;;;96;95;
+10;729;EDFM;Baden Wurttemberg, Neuostheim;;Germany;6;49-28-21N;008-30-56E;;;100;;
+10;734;ETIE;Heidelberg;;Germany;6;49-24N;008-39E;;;110;109;
+10;735;----;Sinsheim;;Germany;6;49-15N;008-53E;;;169;169;
+10;736;----;Muehlacker;;Germany;6;48-58N;008-52E;;;244;245;
+10;737;----;Stuttgart / Neckartal;;Germany;6;48-47N;009-13E;;;224;;
+10;738;EDDS;Stuttgart-Echterdingen;;Germany;6;48-41N;009-13E;48-41N;009-13E;396;391;P
+10;739;----;Stuttgart / Schnarrenberg;;Germany;6;48-50N;009-12E;48-50N;009-12E;314;311;
+10;742;----;Oehringen;;Germany;6;49-13N;009-31E;;;276;277;
+10;743;ETHN;Niederstetten;;Germany;6;49-24N;009-58E;;;468;473;
+10;745;EDOP;Mecklenburg-Vorpommern, Parchim;;Germany;6;53-25-37N;011-47-01E;;;52;;
+10;752;ETIK;Illesheim;;Germany;6;49-28N;010-23E;;;325;347;
+10;755;ETEB;Ansbach / Katterbach;;Germany;6;49-19N;010-38E;49-19N;010-38E;467;476;
+10;761;----;Weissenburg;;Germany;6;49-01N;010-58E;;;422;424;
+10;762;----;Furth United States Army Heliport ;;Germany;6;49-30N;010-58E;49-30N;010-58E;302;302;
+10;763;EDDN;Nuernberg;;Germany;6;49-30N;011-03E;49-30N;011-05E;318;318;P
+10;764;----;Feucht Usa \ Af ;;Germany;6;49-23N;011-10E;49-23N;011-10E;386;386;
+10;765;ETHR;Roth;;Germany;6;49-13N;011-06E;49-13N;011-06E;388;395;
+10;771;ETGK;Kuemmersruck;;Germany;6;49-26N;011-54E;49-26N;011-54E;419;418;
+10;775;ETIH;Hohenfels;;Germany;6;49-13N;011-50E;;;442;442;
+10;776;----;Regensburg;;Germany;6;49-03N;012-06E;;;366;371;P
+10;777;----;Gelbelsee;;Germany;6;48-57N;011-26E;48-57N;011-26E;539;539;
+10;788;----;Straubing;;Germany;6;48-50N;012-34E;;;350;359;
+10;791;----;Grosser Arber;;Germany;6;49-07N;013-08E;;;1437;1446;
+10;796;----;Zwiesel;;Germany;6;49-02N;013-14E;;;612;613;
+10;803;----;Freiburg;;Germany;6;48-00N;007-51E;;;269;300;P
+10;805;----;Lahr;;Germany;6;48-22N;007-50E;;;155;157;
+10;815;----;Freudenstadt;;Germany;6;48-27N;008-25E;;;797;801;
+10;818;----;Klippeneck;;Germany;6;48-06N;008-45E;;;973;975;
+10;827;ETGZ;Messstetten;;Germany;6;48-11N;009-00E;;;920;930;
+10;828;----;Sigmaringen;;Germany;6;48-06N;009-15E;48-06N;009-15E;645;646;
+10;836;----;Stoetten;;Germany;6;48-40N;009-52E;;;734;738;P
+10;837;ETHL;Laupheim;;Germany;6;48-13N;009-55E;;;538;550;
+10;838;----;Ulm;;Germany;6;48-23N;009-57E;;;567;571;
+10;850;----;Harburg;;Germany;6;48-47N;010-42E;;;457;457;
+10;852;EDMA;Augsburg;;Germany;6;48-26N;010-56E;48-23N;010-51E;461;463;P
+10;853;ETSN;Neuburg / Donau;;Germany;6;48-43N;011-13E;;;380;387;
+10;856;ETSL;Lechfeld;;Germany;6;48-11N;010-52E;;;555;562;
+10;857;ETSA;Landsberg;;Germany;6;48-04N;010-54E;;;623;628;
+10;858;ETSF;Fuerstenfeldbruck;;Germany;6;48-12N;011-16E;;;519;535;
+10;859;----;Oberpfaffenhofen;;Germany;6;48-05N;011-17E;;;593;600;
+10;860;ETSI;Ingolstadt;;Germany;6;48-43N;011-32E;;;367;370;
+10;862;----;Siegenburg;;Germany;6;48-45N;011-48E;48-45N;011-48E;397;404;
+10;863;----;Weihenstephan;;Germany;6;48-24N;011-42E;;;470;;
+10;864;----;Neubiberg Ger-Afb ;;Germany;6;48-04N;011-38E;;;560;;
+10;865;----;Muenchen-Stadt;;Germany;6;48-08N;011-33E;;;520;535;
+10;866;EDDM;Munchen;;Germany;6;48-21N;011-47E;48-08N;011-43E;453;;
+10;868;----;Muenchen-Oberschleissheim;;Germany;6;48-15N;011-33E;48-15N;011-35E;484;489;
+10;869;ETSE;Erding;;Germany;6;48-19N;011-57E;;;462;467;
+10;870;----;Muenchen, Flughafen;;Germany;6;48-22N;011-48E;;;453;447;P
+10;871;----;Fuerholzen;;Germany;6;48-20N;011-37E;;;510;;
+10;875;----;Muehldorf;;Germany;6;48-17N;012-30E;;;405;410;
+10;893;----;Passau;;Germany;6;48-35N;013-28E;;;409;408;P
+10;900;----;Bremgarten Ger-Afb ;;Germany;6;47-54N;007-37E;;;217;;
+10;908;----;Feldberg / Schwarzwald;;Germany;6;47-53N;008-00E;;;1486;1493;
+10;912;EDTD;Donaueschingen / Villingen;;Germany;6;47-58N;008-31E;;;680;;
+10;929;EDTZ;Konstanz;;Germany;6;47-41N;009-11E;;;443;447;P
+10;935;EDNY;Friedrichshafen;;Germany;6;47-40N;009-31E;;;416;424;
+10;946;----;Kempten;;Germany;6;47-43N;010-20E;;;705;705;
+10;947;ETSM;Memmingen;;Germany;6;47-59N;010-14E;;;634;644;
+10;948;----;Oberstdorf;;Germany;6;47-24N;010-17E;;;810;812;
+10;954;ETHA;Altenstadt;;Germany;6;47-50N;010-52E;47-50N;010-52E;739;757;
+10;961;----;Zugspitze;;Germany;6;47-25N;010-59E;;;2960;2962;P
+10;962;----;Hohenpeissenberg;;Germany;6;47-48N;011-01E;47-48N;011-01E;977;986;P
+10;963;----;Garmisch-Partenkirchen;;Germany;6;47-29N;011-04E;;;719;720;
+10;971;----;Bad Tolz United States Army Air Field ;;Germany;6;47-46N;011-36E;;;716;;
+10;980;----;Wendelstein;;Germany;6;47-42N;012-01E;;;1832;1835;
+10;982;----;Chieming;;Germany;6;47-53N;012-32E;;;549;549;
+11;001;----;Wolfsegg;;Austria;6;48-06N;013-41E;;;634;;
+11;003;----;Ried Im Innkreis;;Austria;6;48-13N;013-29E;;;435;443;
+11;008;----;Rohrbach;;Austria;6;48-34N;014-00E;;;602;;
+11;009;----;Wels-Flugfeld;;Austria;6;48-11N;014-02E;;;318;323;
+11;010;LOWL;Linz / Hoersching-Flughafen;;Austria;6;48-14N;014-11E;48-14N;014-11E;298;313;P
+11;011;LOXL;Horsching Aus-Afb ;;Austria;6;48-14N;014-11E;48-14N;014-11E;313;298;
+11;012;----;Kremsmuenster;;Austria;6;48-03N;014-08E;;;383;389;
+11;013;----;Stadt Haag / Heimberg;;Austria;6;48-07N;014-37E;;;408;;
+11;014;----;Koenigswiesen;;Austria;6;48-24N;014-50E;;;608;;
+11;015;----;Freistadt;;Austria;6;48-31N;014-30E;;;548;;
+11;016;----;Freistadt-Flugfeld;;Austria;6;48-31N;014-25E;;;682;;
+11;017;----;Freistadt;;Austria;6;48-31N;014-30E;;;563;;
+11;018;----;Amstetten;;Austria;6;48-07N;014-52E;;;274;;
+11;019;----;Allentsteig;;Austria;6;48-41N;015-22E;;;598;607;
+11;020;----;Zwettl;;Austria;6;48-37N;015-12E;;;506;511;
+11;021;----;Litschau;;Austria;6;48-58N;015-02E;;;564;561;
+11;022;----;Retz;;Austria;6;48-46N;015-57E;;;256;262;P
+11;024;----;Jauerling;;Austria;6;48-21N;015-22E;48-21N;015-22E;860;860;
+11;026;----;Krems / Langenlois Gneixendorf;;Austria;6;48-27N;015-38E;;;312;;
+11;028;----;Saint Poelten;;Austria;6;48-12N;015-37E;;;272;282;P
+11;030;LOXT;Tulln;;Austria;6;48-19N;016-07E;;;175;176;
+11;032;----;Poysdorf;;Austria;6;48-40N;016-38E;;;209;;
+11;034;----;Wien / City;;Austria;6;48-12N;016-22E;;;171;;
+11;035;----;Wien / Hohe Warte;;Austria;6;48-15N;016-22E;48-15N;016-22E;203;209;P
+11;036;LOWW;Wien / Schwechat-Flughafen;;Austria;6;48-07N;016-34E;;;183;190;P
+11;037;----;Grossenzersdorf;;Austria;6;48-12N;016-34E;;;153;;
+11;051;----;Ranshofen;;Austria;6;48-13N;013-02E;;;382;390;
+11;055;----;Schaerding;;Austria;6;48-28N;013-26E;;;318;315;
+11;059;----;Wels / Schleissheim;;Austria;6;48-10N;014-04E;;;312;314;
+11;060;----;Linz / Stadt;;Austria;6;48-18N;014-17E;;;263;262;
+11;075;----;Langenlois;;Austria;6;48-28N;015-42E;;;210;;
+11;078;----;Lilienfeld / Sulzer;;Austria;6;48-02N;015-35E;48-02N;015-35E;681;681;
+11;082;----;Gumpoldskirchen;;Austria;6;48-02N;016-17E;;;218;;
+11;101;----;Bregenz;;Austria;6;47-30N;009-44E;;;424;438;P
+11;103;----;Hohenems / Dornbirn Flugfeld;;Austria;6;47-23N;009-42E;;;412;418;
+11;105;----;Feldkirch;;Austria;6;47-16N;009-36E;;;439;440;P
+11;109;----;Saint Anton Am Arlberg;;Austria;6;47-08N;010-19E;;;1275;;
+11;110;----;Galzig;;Austria;6;47-08N;010-14E;;;2080;;
+11;112;----;Landeck;;Austria;6;47-09N;010-34E;;;785;794;P
+11;116;----;Reutte / Tirol;;Austria;6;47-30N;010-45E;;;870;;
+11;120;LOWI;Innsbruck-Flughafen;;Austria;6;47-16N;011-21E;;;581;593;P
+11;122;LOXS;Schwaz Heliport ;;Austria;6;47-20N;011-42E;;;543;;
+11;126;----;Patscherkofel;;Austria;6;47-13N;011-28E;;;2247;;P
+11;127;----;Obergurgl;;Austria;6;46-52N;011-02E;;;1938;1937;
+11;128;----;Brenner;;Austria;6;47-00N;011-31E;;;1450;;P
+11;130;----;Kufstein;;Austria;6;47-35N;012-10E;;;495;508;P
+11;132;----;Saint Johann In Tirol-Flugfeld;;Austria;6;47-31N;012-27E;;;670;674;
+11;134;----;Gerlos;;Austria;6;47-13N;012-02E;;;1250;;
+11;135;----;Hahnenkamm / Ehrenbachhoehe;;Austria;6;47-25N;012-22E;;;1760;;P
+11;136;----;Krimml;;Austria;6;47-14N;012-11E;;;1000;;
+11;138;----;Alpinzentrum Rudolfshuette;;Austria;6;47-08N;012-37E;;;2304;2309;
+11;139;----;Annaberg Im Lammertal;;Austria;6;47-33N;013-26E;;;885;;
+11;140;----;Lofer;;Austria;6;47-35N;012-42E;;;629;;
+11;141;----;Bischofshofen;;Austria;6;47-24N;013-13E;;;550;;
+11;143;----;Zell Am See-Flugfeld;;Austria;6;47-18N;012-47E;;;753;754;
+11;144;----;Zell Am See;;Austria;6;47-20N;012-48E;;;766;763;
+11;145;----;Bad Gastein;;Austria;6;47-07N;013-08E;;;1100;;
+11;146;----;Sonnblick;;Austria;6;47-03N;012-57E;;;3105;3109;P
+11;147;----;Radstadt;;Austria;6;47-23N;013-27E;;;845;;
+11;148;----;Saint Michael Im Lungau;;Austria;6;47-06N;013-39E;;;1094;;
+11;149;----;Obertauern;;Austria;6;47-16N;013-34E;;;1742;1737;
+11;150;LOWS;Salzburg-Flughafen;;Austria;6;47-48N;013-00E;;;430;450;P
+11;151;----;Seewalchen / Attersee;;Austria;6;47-57N;013-36E;;;496;;
+11;152;----;Mattsee;;Austria;6;47-58N;013-06E;;;502;;
+11;153;----;Mondsee;;Austria;6;47-51N;013-22E;;;491;;
+11;154;----;Gmunden;;Austria;6;47-54N;013-47E;;;424;427;
+11;155;----;Feuerkogel;;Austria;6;47-49N;013-44E;;;1618;1621;P
+11;156;----;Bad Ischl;;Austria;6;47-43N;013-38E;;;469;470;
+11;157;LOXA;Aigen Im Ennstal;;Austria;6;47-32N;014-08E;;;638;649;P
+11;159;----;Pyhrnpass;;Austria;6;47-37N;014-18E;;;940;;
+11;160;----;Hieflau;;Austria;6;47-36N;014-45E;;;492;;
+11;162;----;Mauterndorf;;Austria;6;47-08N;013-41E;;;1115;;
+11;163;----;Stolzalpe;;Austria;6;47-07N;014-12E;;;1305;;
+11;165;LOXZ;Zeltweg;;Austria;6;47-12N;014-45E;;;677;682;P
+11;168;----;Wald Am Schober;;Austria;6;47-27N;014-40E;;;849;;
+11;170;----;Lunz;;Austria;6;47-51N;015-00E;;;614;615;
+11;171;----;St Sebastian / Mariazell;;Austria;6;47-48N;015-18E;;;872;;
+11;172;----;Mariazell;;Austria;6;47-46N;015-19E;;;875;;P
+11;174;----;Saint Michael / Leoben;;Austria;6;47-20N;015-05E;;;580;;
+11;175;----;Bruck / Mur;;Austria;6;47-25N;015-16E;;;482;;P
+11;176;----;Kapfenberg-Flugfeld;;Austria;6;47-28N;015-20E;;;515;527;
+11;180;----;Rax / Seilbahn-Bergstat;;Austria;6;47-43N;015-47E;;;1546;;
+11;181;LOAV;Niederosterreich / Lugplatz  Voslau;;Austria;6;47-57-52N;016-15-34E;;;233;;
+11;182;----;Wiener Neustadt;;Austria;6;47-50N;016-13E;;;280;285;
+11;183;----;Semmering;;Austria;6;47-38N;015-49E;;;960;;
+11;185;----;Moenichkirchen;;Austria;6;47-31N;016-02E;;;1000;1001;
+11;186;----;Moenichkirchen;;Austria;6;47-31N;016-03E;;;940;;
+11;190;----;Eisenstadt;;Austria;6;47-51N;016-32E;;;184;190;
+11;192;----;Kleinzicken;;Austria;6;47-13N;016-20E;;;267;267;
+11;194;----;Neusiedl Am See;;Austria;6;47-57N;016-52E;;;129;;
+11;195;----;Punitz / Guessing Flugfeld;;Austria;6;47-09N;016-19E;;;290;;
+11;196;----;Saint Michael / Guessing;;Austria;6;47-07N;016-16E;;;235;;
+11;202;----;Felbertauern / Suedportal;;Austria;6;47-07N;012-30E;;;1632;;
+11;204;----;Lienz;;Austria;6;46-50N;012-48E;;;659;665;P
+11;207;----;Reisach;;Austria;6;46-39N;013-09E;;;646;;
+11;209;----;Spittal / Drau-Kleinsass;;Austria;6;46-46N;013-32E;;;710;;
+11;210;----;Mallnitz;;Austria;6;46-59N;013-11E;;;1185;;
+11;211;----;Radenthein;;Austria;6;46-47N;013-42E;;;685;;
+11;212;----;Villacheralpe;;Austria;6;46-36N;013-40E;;;2140;2160;P
+11;213;----;Villach;;Austria;6;46-37N;013-52E;;;495;;
+11;214;----;Preitenegg;;Austria;6;46-56N;014-55E;;;1055;;P
+11;219;----;Neumarkter Sattel;;Austria;6;47-07N;014-24E;;;1125;;
+11;225;----;Weitensfeld;;Austria;6;46-51N;014-12E;;;705;;
+11;229;----;Saint Andrae I. L.;;Austria;6;46-47N;014-48E;;;468;;
+11;231;LOWK;Klagenfurt-Flughafen;;Austria;6;46-39N;014-20E;;;448;476;P
+11;232;----;Feistritz Ob Bleiburg;;Austria;6;46-34N;014-46E;;;527;;
+11;234;----;Eisenkappel;;Austria;6;46-29N;014-36E;;;623;623;
+11;236;----;Uebelbach / Reicherhoehe;;Austria;6;47-14N;015-14E;;;999;;
+11;240;LOWG;Graz-Thalerhof-Flughafen;;Austria;6;47-00N;015-26E;47-00N;015-27E;340;347;P
+11;241;----;Schoeckl;;Austria;6;47-12N;015-28E;;;1436;1438;
+11;245;----;Bad Gleichenberg;;Austria;6;46-52N;015-54E;;;303;326;
+11;248;----;Bad Radkersburg;;Austria;6;46-41N;015-59E;;;208;214;
+11;252;----;Virgen;;Austria;6;47-00N;012-27E;;;1198;1191;
+11;255;----;Koetschach / Mauthen;;Austria;6;46-41N;013-00E;;;709;706;
+11;260;----;Mallnitz Ii;;Austria;6;46-59N;013-11E;;;1200;1202;
+11;261;----;Obervellach;;Austria;6;46-56N;013-13E;;;820;822;
+11;263;----;Weissensee / Gatschach;;Austria;6;46-43N;013-18E;;;945;953;
+11;270;----;Dellach Im Drautal;;Austria;6;46-45N;013-05E;;;627;630;
+11;275;----;Arriach;;Austria;6;46-44N;013-51E;;;896;;
+11;280;----;Murau;;Austria;6;47-07N;014-11E;;;813;813;
+11;290;----;Graz Universitaet;;Austria;6;47-07N;015-27E;;;366;377;
+11;292;----;Lassnitzhoehe;;Austria;6;47-05N;015-35E;;;524;526;
+11;302;----;Dornbirn;;Austria;6;47-26N;009-44E;;;410;411;
+11;308;----;Warth;;Austria;6;47-15N;010-11E;;;1475;;
+11;310;----;Ischgl / Idalpe;;Austria;6;46-59N;010-19E;;;2323;2320;
+11;316;----;Pitztaler Gletscher;;Austria;6;46-56N;010-53E;;;2850;2843;
+11;320;----;Innsbruck / Universitaet;;Austria;6;47-16N;011-23E;;;577;579;
+11;322;----;Mayrhofen;;Austria;6;47-10N;011-51E;;;643;647;
+11;340;----;Schmittenhoehe;;Austria;6;47-20N;012-44E;;;1973;1956;
+11;345;----;Saint Veit Im Pongau;;Austria;6;47-21N;013-09E;;;750;750;
+11;346;----;Rauris;;Austria;6;47-15N;012-50E;;;916;917;
+11;348;----;Mariapfarr;;Austria;6;47-09N;013-45E;;;1153;;
+11;350;----;Salzburg / Freisaal;;Austria;6;47-47N;013-03E;;;420;422;
+11;351;----;Ramsau / Dachstein;;Austria;6;47-25N;013-38E;;;1203;1207;
+11;353;----;Schoberstein;;Austria;6;47-54N;014-20E;;;1250;;
+11;355;----;Windischgarsten;;Austria;6;47-44N;014-20E;;;596;611;
+11;356;----;Bad Aussee;;Austria;6;47-37N;013-47E;;;665;661;
+11;357;----;Saint Wolfgang;;Austria;6;47-44N;013-27E;;;539;542;
+11;358;----;Bad Mitterndorf;;Austria;6;47-33N;013-57E;;;804;802;
+11;360;----;Irdning / Gumpenstein;;Austria;6;47-30N;014-07E;;;710;;
+11;365;----;Zeltweg / Autom. Stat.;;Austria;6;47-12N;014-47E;;;669;677;
+11;375;----;Aflenz;;Austria;6;47-33N;015-15E;;;784;775;
+11;380;----;Reichenau / Rax;;Austria;6;47-42N;015-51E;;;486;485;
+11;382;----;Puchberg;;Austria;6;47-47N;015-55E;;;584;586;
+11;384;----;Hirschenkogel;;Austria;6;47-38N;015-49E;;;1325;1323;
+11;385;----;Hohe Wand / Hochkogelhaus;;Austria;6;47-49N;016-02E;;;932;936;
+11;387;----;Seibersdorf;;Austria;6;47-59N;016-30E;;;185;186;
+11;406;----;Cheb;;Czech Republic;6;50-05N;012-24E;50-05N;012-24E;470;471;P
+11;414;LKKV;Karlovy Vary;;Czech Republic;6;50-12N;012-55E;;;603;604;
+11;418;----;Marianske Lazne;;Czech Republic;6;49-55N;012-43E;;;540;541;
+11;423;----;Primda;;Czech Republic;6;49-40N;012-40E;;;742;748;
+11;438;----;Tusimice;;Czech Republic;6;50-23N;013-20E;;;322;328;
+11;448;----;Plzen-Line;;Czech Republic;6;49-10N;013-16E;;;364;365;
+11;457;----;Churanov;;Czech Republic;6;49-04N;013-37E;;;1122;1126;
+11;464;----;Milesovka;;Czech Republic;6;50-33N;013-56E;;;836;;
+11;487;----;Kocelovice;;Czech Republic;6;49-28N;013-50E;;;519;522;P
+11;502;----;Usti Nad Labem;;Czech Republic;6;50-41N;014-02E;;;377;379;
+11;509;----;Doksany;;Czech Republic;6;50-28N;014-10E;;;158;159;
+11;518;LKPR;Praha / Ruzyne;;Czech Republic;6;50-06N;014-15E;50-06N;014-17E;365;365;P
+11;520;----;Praha-Libus;;Czech Republic;6;50-01N;014-27E;50-00N;014-27E;304;304;
+11;538;----;Temelin;;Czech Republic;6;49-12N;014-20E;;;500;507;
+11;540;----;Hosin;;Czech Republic;6;49-02N;014-29E;;;488;;
+11;541;----;Ceske Budejovice;;Czech Republic;6;48-56N;014-27E;;;432;436;
+11;567;----;Praha Kbely;;Czech Republic;6;50-07N;014-32E;;;286;287;
+11;603;----;Liberec;;Czech Republic;6;50-46N;015-01E;;;398;399;
+

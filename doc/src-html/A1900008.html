@@ -1,0 +1,162 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+<head>
+<title>Source code</title>
+<link rel="stylesheet" type="text/css" href="../stylesheet.css" title="Style">
+</head>
+<body>
+<div class="sourceContainer">
+<pre><span class="sourceLineNo">001</span>import java.io.IOException;<a name="line.1"></a>
+<span class="sourceLineNo">002</span>import java.net.*;<a name="line.2"></a>
+<span class="sourceLineNo">003</span>import java.io.*;<a name="line.3"></a>
+<span class="sourceLineNo">004</span>import java.util.StringTokenizer;<a name="line.4"></a>
+<span class="sourceLineNo">005</span><a name="line.5"></a>
+<span class="sourceLineNo">006</span>/**<a name="line.6"></a>
+<span class="sourceLineNo">007</span> * @author Michael P. Troester<a name="line.7"></a>
+<span class="sourceLineNo">008</span> * @version 1.01 - 10/16/2015<a name="line.8"></a>
+<span class="sourceLineNo">009</span> * @studentid 5061001<a name="line.9"></a>
+<span class="sourceLineNo">010</span> * @email michaelp.troester@gmail.com<a name="line.10"></a>
+<span class="sourceLineNo">011</span> * @assignment.number A1900008<a name="line.11"></a>
+<span class="sourceLineNo">012</span> * @screenprint &lt;a href='A1900008.gif'&gt;ScreenPrint&lt;/a&gt;<a name="line.12"></a>
+<span class="sourceLineNo">013</span> * @sampleoutput &lt;a href='../data/UnitedStates.txt'&gt;SampleOutput&lt;/a&gt;<a name="line.13"></a>
+<span class="sourceLineNo">014</span> * @prgm.usage Called directly from OS<a name="line.14"></a>
+<span class="sourceLineNo">015</span> * @see &lt;a href='http://jcouture.net/cisc190/A19008.php' target='_blank'&gt;Program Specification&lt;/a&gt;<a name="line.15"></a>
+<span class="sourceLineNo">016</span> * @see &lt;br&gt;&lt;a href='http://docs.oracle.com/javase/8/docs/technotes/guides/Javadoc/index.html' target='_blank'&gt;Javadoc<a name="line.16"></a>
+<span class="sourceLineNo">017</span> * Documentation&lt;/a&gt;<a name="line.17"></a>
+<span class="sourceLineNo">018</span> */<a name="line.18"></a>
+<span class="sourceLineNo">019</span>public class A1900008 {<a name="line.19"></a>
+<span class="sourceLineNo">020</span><a name="line.20"></a>
+<span class="sourceLineNo">021</span>    static String strStationsIndexFile = "data/World.txt";<a name="line.21"></a>
+<span class="sourceLineNo">022</span>    static String strOutputFile = "data/UnitedStates.txt";<a name="line.22"></a>
+<span class="sourceLineNo">023</span><a name="line.23"></a>
+<span class="sourceLineNo">024</span>    /**<a name="line.24"></a>
+<span class="sourceLineNo">025</span>     * The purpose of this method is to provide an entry point into this program.  It utilizes the INET class in order<a name="line.25"></a>
+<span class="sourceLineNo">026</span>     * to download the "Station Information Text File keyed by index number" file if it does not already exist.  It then<a name="line.26"></a>
+<span class="sourceLineNo">027</span>     * processes the file record by record, selecting the stations which start with "K" and outputing the records for<a name="line.27"></a>
+<span class="sourceLineNo">028</span>     * those station's IDs, names, states, latitudes and longitudes into a tab-delimeted file called UnitedStates.txt.<a name="line.28"></a>
+<span class="sourceLineNo">029</span>     *<a name="line.29"></a>
+<span class="sourceLineNo">030</span>     * @param args A placeholder for any arguments which may be passed to the program.  Does nothing<a name="line.30"></a>
+<span class="sourceLineNo">031</span>     * @throws Exception A catch all for IOException and MalformedURLException<a name="line.31"></a>
+<span class="sourceLineNo">032</span>     */<a name="line.32"></a>
+<span class="sourceLineNo">033</span>    public static void main(String[] args) throws Exception {<a name="line.33"></a>
+<span class="sourceLineNo">034</span><a name="line.34"></a>
+<span class="sourceLineNo">035</span>        INET net = new INET();<a name="line.35"></a>
+<span class="sourceLineNo">036</span>        if (! net.fileExists(strStationsIndexFile)) {<a name="line.36"></a>
+<span class="sourceLineNo">037</span>            //System.out.println("File does not exist.");         //For testing<a name="line.37"></a>
+<span class="sourceLineNo">038</span>            String strWorldIndex = net.getURLRaw("http://weather.noaa.gov/data/nsd_bbsss.txt");<a name="line.38"></a>
+<span class="sourceLineNo">039</span>            net.saveToFile(strStationsIndexFile, strWorldIndex);<a name="line.39"></a>
+<span class="sourceLineNo">040</span>            net.getRegEx(strWorldIndex, ";");<a name="line.40"></a>
+<span class="sourceLineNo">041</span>        }<a name="line.41"></a>
+<span class="sourceLineNo">042</span>        else<a name="line.42"></a>
+<span class="sourceLineNo">043</span>            System.out.println("File exists.");<a name="line.43"></a>
+<span class="sourceLineNo">044</span><a name="line.44"></a>
+<span class="sourceLineNo">045</span>        String strFileContents = net.getFromFile(strStationsIndexFile);<a name="line.45"></a>
+<span class="sourceLineNo">046</span>        StringTokenizer st = new StringTokenizer(strFileContents, ";", true);<a name="line.46"></a>
+<span class="sourceLineNo">047</span>        try (PrintWriter outputFile = new PrintWriter(new BufferedWriter(new FileWriter(strOutputFile, false)))) {<a name="line.47"></a>
+<span class="sourceLineNo">048</span>            int intDelimeterCounter = 0;<a name="line.48"></a>
+<span class="sourceLineNo">049</span>            String[] staFields = new String[13];<a name="line.49"></a>
+<span class="sourceLineNo">050</span>            while (st.hasMoreTokens()) {<a name="line.50"></a>
+<span class="sourceLineNo">051</span>                String strToken = st.nextToken();<a name="line.51"></a>
+<span class="sourceLineNo">052</span><a name="line.52"></a>
+<span class="sourceLineNo">053</span>                if (strToken.equals(";")) {                         //If we come across a delimeter<a name="line.53"></a>
+<span class="sourceLineNo">054</span>                    intDelimeterCounter++;<a name="line.54"></a>
+<span class="sourceLineNo">055</span>                } else {                                            //otherwise, it's a field, add to array<a name="line.55"></a>
+<span class="sourceLineNo">056</span>                    staFields[intDelimeterCounter] = strToken;<a name="line.56"></a>
+<span class="sourceLineNo">057</span>                }<a name="line.57"></a>
+<span class="sourceLineNo">058</span><a name="line.58"></a>
+<span class="sourceLineNo">059</span>                if (intDelimeterCounter == 13) {                    //If we've reached the last delimeter.<a name="line.59"></a>
+<span class="sourceLineNo">060</span>                    if (staFields[2].substring(0, 1).equals("K")) { //If StationID field begins with "K"<a name="line.60"></a>
+<span class="sourceLineNo">061</span>                        outputFile.print(staFields[2] + "\t");<a name="line.61"></a>
+<span class="sourceLineNo">062</span>                        //System.out.print(staFields[2] + "\t");  //testing<a name="line.62"></a>
+<span class="sourceLineNo">063</span><a name="line.63"></a>
+<span class="sourceLineNo">064</span>                        outputFile.print(staFields[3] + "\t");<a name="line.64"></a>
+<span class="sourceLineNo">065</span>                        //System.out.print(staFields[3] + "\t");  //testing<a name="line.65"></a>
+<span class="sourceLineNo">066</span><a name="line.66"></a>
+<span class="sourceLineNo">067</span>                        outputFile.print(staFields[4] + "\t");<a name="line.67"></a>
+<span class="sourceLineNo">068</span>                        //System.out.print(staFields[4] + "\t");  //testing<a name="line.68"></a>
+<span class="sourceLineNo">069</span><a name="line.69"></a>
+<span class="sourceLineNo">070</span>                        outputFile.print(staFields[7] + "\t");<a name="line.70"></a>
+<span class="sourceLineNo">071</span>                        //System.out.print(staFields[7] + "\t");  //testing<a name="line.71"></a>
+<span class="sourceLineNo">072</span><a name="line.72"></a>
+<span class="sourceLineNo">073</span>                        outputFile.print(staFields[8] + "\r\n");<a name="line.73"></a>
+<span class="sourceLineNo">074</span>                        //System.out.print(staFields[8] + "\r\n");    //testing<a name="line.74"></a>
+<span class="sourceLineNo">075</span>                    }<a name="line.75"></a>
+<span class="sourceLineNo">076</span>                    intDelimeterCounter = 0;<a name="line.76"></a>
+<span class="sourceLineNo">077</span>                }<a name="line.77"></a>
+<span class="sourceLineNo">078</span>            }<a name="line.78"></a>
+<span class="sourceLineNo">079</span><a name="line.79"></a>
+<span class="sourceLineNo">080</span>        outputFile.close();<a name="line.80"></a>
+<span class="sourceLineNo">081</span>    } catch (IOException e) {<a name="line.81"></a>
+<span class="sourceLineNo">082</span>        System.out.println("Error IOException" + e.getMessage());<a name="line.82"></a>
+<span class="sourceLineNo">083</span>    }<a name="line.83"></a>
+<span class="sourceLineNo">084</span><a name="line.84"></a>
+<span class="sourceLineNo">085</span>        System.exit(0);<a name="line.85"></a>
+<span class="sourceLineNo">086</span>    }<a name="line.86"></a>
+<span class="sourceLineNo">087</span>}<a name="line.87"></a>
+<span class="sourceLineNo">088</span><a name="line.88"></a>
+<span class="sourceLineNo">089</span><a name="line.89"></a>
+<span class="sourceLineNo">090</span><a name="line.90"></a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</pre>
+</div>
+</body>
+</html>
